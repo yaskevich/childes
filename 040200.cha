@@ -1,0 +1,2239 @@
+@UTF8
+@PID:	11312/c-00033131-1
+@Begin
+@Languages:	pol
+@Participants:	CHI Janeczek Target_Child , MIS Miś Child , MAM Mama Mother
+	, BAB Babcia Grandmother , OJC Ojciec Father , PAS
+	Unidentified , CCM Unidentified , EWA Ewa_Cousin Relative ,
+	HEN Unidentified
+@ID:	pol|Szuman|CHI|4;02.00||||Target_Child|||
+@ID:	pol|Szuman|MIS|2;09.||||Child|||
+@ID:	pol|Szuman|MAM|||||Mother|||
+@ID:	pol|Szuman|BAB|||||Grandmother|||
+@ID:	pol|Szuman|OJC|||||Father|||
+@ID:	pol|Szuman|PAS|||||Unidentified|||
+@ID:	pol|Szuman|CCM|||||Unidentified|||
+@ID:	pol|Szuman|EWA|||||Relative|||
+@ID:	pol|Szuman|HEN|||||Unidentified|||
+@Types:	long, toyplay, TD
+*CHI:	mamusiu , patrz jak to wypuchło .
+*CHI:	ja mogę strzelać .
+*CHI:	Balon , balon .
+*CHI:	z nogami idzie pani balonowa.
+*CHI:	mamusiu , patrz jak to wypuchło .
+*CHI:	ja mogę strzelać .
+*CHI:	[^ śpiewa] Balon , balon .
+*CHI:	z nogami idzie pani balonowa@g .
+*CHI:	mamusiu , ja mam balonik z paczki z rękawiczek .
+*CHI:	tam jest powietrze .
+*CHI:	patrz , balonik na ciebie kiwa że jesteś grzeczna .
+%sit:	porusza torebką .
+@G:	Episode 2
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+*CHI:	miś , bądź grzeczny , bo ci nie dam cukierków .
+%sit:	nic nie ma .
+*MIS:	będę .
+@G:	Episode 3
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+@Situation:	Mała sąsiadka uderzyła w nadmuchaną torebkę , która pękła.
+*CHI:	ewa nie przydarła .
+*CHI:	ewa klasnęła i paczka pękła .
+@G:	Episode 4
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+*MIS:	czy ja pojadę na imieniny ?
+*MAM:	nie pojedziesz , bo imieniny są dla dorosłych .
+*MIS:	ja jestem dorosły .
+*MIS:	jestem duży mężczyzna .
+%flo:	jestem duży męcyzna .
+@G:	Episode 5
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+*PAS:	michaś , poproś mamę , żeby ci kupiła siostrzyczkę .
+*MIS:	nie chcę .
+*MIS:	sam sobie zrobię siostrzyczkę .
+@G:	Episode 6
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+@Situation:	Miś rozdarł świerszczyk.
+*MIS:	a jak podarłem świerszczyk , to nie pojadę na Strugę ?
+*MAM:	napewno nie pojedziesz , bo książek drzeć nie wolno .
+*MIS:	ja już nigdy nie będę to ja pojadę .
+%sit:	imieniny babci , na które chłopcy bardzo pragną pojechać .
+@G:	Episode 7
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+@Situation:	Chłopcy jedzą kolację.
+*CHI:	idziesz po wodę ?
+*MIS:	nie .
+*CHI:	musisz .
+*MIS:	ja mam pod sobą dzban .
+*CHI:	ja chcę pieniądz .
+*MIS:	nie ma pieniądz u mnie .
+*CHI:	dupski ma pieniądz .
+@G:	Episode 8
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+*MAM:	jaki śliczny pająk .
+*MAM:	nie mogę go złapać .
+*CHI:	ja ci złapię tego ślicznego pająka .
+*MIS:	ja też go złapię .
+@G:	Episode 9
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+@Situation:	Miś siedzi na nocniku. Mama w drugim pokoju. Jaś mówi do
+	mamy.
+*CHI:	miś rzuca , ja ino stawiam [% stołeczek] .
+*CHI:	miś , gdzie masz dzbanek ?
+*MIS:	tu jest studnia .
+*CHI:	gdzie masz dzbanek ?
+*MIS:	ja idę do studni .
+%sit:	jaś idzie do szafy .
+*CHI:	tu jest dzbanek .
+@G:	Episode 10
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+*MIS:	zrobiłem dużą kupełuchę@g .
+*MIS:	przedrzej@g mi ten papier .
+@G:	Episode 11
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+*MIS:	czy piec gorący ?
+*MIS:	panie Janie , dotknij pieca , bo pan Michał mówi , że gorący .
+@G:	Episode 12
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+@Situation:	Miś w ręce ma kij.
+*MIS:	patrz mamusiu , jak ja ląduję .
+*MIS:	patrz jak ja ląduję Janeczek .
+*MIS:	czy ja ładnie ląduję ?
+*CHI:	brzydko .
+@G:	Episode 13
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+@Situation:	Miś pije zsiadłe mleko , które miesza łyżeczką.
+*MIS:	mamusiu , ja robię mięso .
+*MIS:	I kartofle też .
+@G:	Episode 14
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+*CHI:	dlaczego wujek pojechał ?
+*MAM:	bo wujek musi pracować .
+*CHI:	a wujek może pracować u tatusia w pracy .
+*MIS:	wujek może u tatusia pracować .
+*CHI:	wujek nie ma pracy na Strudze .
+%sit:	na Strudze mieszkają dziadkowie . Dzieci spędzają tam 2-4 miesięcy
+	w ciągu roku .
+@G:	Episode 15
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+@Situation:	Jaś jest świeżo umyty.
+*CHI:	jakie ja mam czyste ręce .
+*CHI:	jak morze .
+*CHI:	a morze jest białe i czyste .
+*CHI:	w morzu to żyją morskie świnki .
+*MIS:	morskie świnki we wodzie .
+*CHI:	nie we wodzie tylko w morzu .
+@G:	Episode 16
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+@Situation:	Miś rozbiera się.
+*MAM:	masz jakieś zaczerwienienie na szyi .
+*MIS:	to diabeł mnie ugryzł .
+@G:	Episode 17
+@Comment:	Age of CHI is 4;2.0
+@Comment:	Age of MIS is 2;9.10
+@Situation:	Janeczek w łóżku. Michałowi mama obcina paznokcie u nóg.
+*CHI:	mama ci popsuje paznokcie .
+*CHI:	dawaj łapę .
+*CHI:	mnie już mama popsuła .
+*CHI:	wszystkie paznokcie mi popsuła .
+@G:	Episode 18
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś leży w łóżeczku.
+*MIS:	baba Jaga wygląda .
+*MAM:	skąd ?
+*MIS:	baba jaga wygląda .
+*MIS:	oknem wygląda .
+*MIS:	ja teraz dom reperuję .
+*MIS:	mam czas to mogę reperować .
+%sit:	po chwili mówi .
+*MIS:	baba Jaga dom ma .
+*MIS:	a ja reperuję .
+@G:	Episode 19
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Chłopcy wstają.
+*CHI:	ręce mam spocone , ale z nich nie kapie .
+*CHI:	jak są mocno spocone , to kapie .
+@G:	Episode 20
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*CHI:	ja mam orzeł .
+*OJC:	orła .
+*CHI:	orrzła@g .
+@G:	Episode 21
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*CHI:	tatuś mi narysuje orła .
+*CHI:	mamusia mi wytnie orła .
+*CHI:	mamusia wie jak ?
+*CHI:	tak jak ptaka .
+*CHI:	tak jak tu , na pieniądzu .
+@G:	Episode 22
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*CHI:	dziadek Mróz będzie chodził od przedszkola do przedszkola .
+*MIS:	od przedszkola do przedszkola .
+*CHI:	gdyby zabrał zabawki i szczotki dostał by od kierowniczki rózgą .
+*MIS:	mocno .
+@G:	Episode 23
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*CHI:	narysuj tego orła .
+*CHI:	a potem wytnąć@g .
+*OJC:	z czego ?
+*CHI:	można z papieru .
+*CHI:	czapkę żołnierską zrobić .
+*OJC:	I włożyć orła do czapki ?
+*CHI:	nie , tylko przykleić tam , gdzie czoło .
+@G:	Episode 24
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*CHI:	widzi tatuś , ja sobie ładnie koszulę złożę .
+*CHI:	pod poduszkę ją kładę , żeby każdy wiedział gdzie jest koszula .
+*CHI:	pod poduszką .
+*CHI:	przez głowę zdemnąłem@g .
+*OJC:	zdjąłem .
+*CHI:	przez górę .
+@G:	Episode 25
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Mama ubiera Michała , który śpiewa.
+*CCM:	wlazł kotek na płotek , na płotek kotek wlazł .
+*MIS:	zlazł kotek , wlazł .
+*MIS:	kot siedzi na kotu@g .
+*MIS:	bo śpiewa .
+*MIS:	do śpiewania wlazł na kota .
+@G:	Episode 26
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś nie trafił w rękaw koszuli.
+*MIS:	ręka weszła mi w małpę .
+*MIS:	co to jest małpa ?
+@G:	Episode 27
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	jadziuni tatuś był nie grzeczny i jest w trumny@g .
+*MIS:	a trumny zjedzą .
+%sit:	ojciec kuzyneczki umarł 4 lata temu .
+@G:	Episode 28
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	ja pójdę po płatki z mamą .
+%sit:	miś myśli o sklepie .
+*MAM:	po płatki nie trzeba iść , tylko je ugotować .
+*MIS:	płatków nie+ma , bo wyrzucone pudełko .
+@G:	Episode 29
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś wkłada chusteczkę za spodnie na piersiach.
+*MIS:	teraz mam piersi , będzie mleczko .
+*MAM:	a dla kogo to mleczko ?
+*MIS:	dla słonia .
+@G:	Episode 30
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś nie ma nic w rękach.
+*MIS:	ja mam duży zegar i ten zegar dzwoni , dzwon+dzwon .
+%sit:	mówi szeptem:
+*MIS:	I po cichu też dzwoni , dzwon+dzwon .
+@G:	Episode 31
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Przez radio zapowiadają pogodę dla Warszawy.
+*MIS:	to nasza Warszawa .
+*MIS:	my bylim@g w Warszawie .
+*MAM:	byliśmy .
+*MIS:	byliśmy .
+*MIS:	tam nie+ma taksówki .
+*MIS:	stoi koło Warszawy , bo by się nie zmieściła .
+@G:	Episode 32
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*PAS:	ewa idzie kupić mydło dla Jareczka .
+*MIS:	pani weźmie nasze .
+*MIS:	pani pożyczy .
+*PAS:	a czym ty się będziesz mył ?
+*MIS:	my mamy dużo .
+*MIS:	jeszcze dużo i dużo .
+@G:	Episode 33
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś czyta gazetę bez obrazków.
+*MIS:	patrz mama , tu taksówka ma okno .
+*MIS:	a gdzie to drugie ?
+%sit:	chodzi mu o wkładkę z gazety .
+*MIS:	zabrałaś mi .
+*MIS:	przecież to moja cerata .
+@G:	Episode 34
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	przyszyj mi tę szmatkę .
+*MIS:	pr~dko , zaraz .
+*MIS:	już przyniosłem siadło@g .
+%sit:	miś ma na myśli poduszkę i koc na krzeszło .
+*MAM:	gdzie ci przyszyć ?
+*MIS:	do tej plapki@g .
+%sit:	miś ma na myśli szmatkę złożoną na pół .
+*MAM:	a czym ci przyszyć ?
+*MIS:	maszyną mamusiu .
+*MIS:	maszyną lepiej , żeby tak się nie odpruło .
+@G:	Episode 35
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	mały list od cioci Joli ja chcę .
+*MIS:	nie potrzebny ?
+*MAM:	potrzebny .
+*MIS:	ja chcę .
+*MIS:	daj mi .
+@G:	Episode 36
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś płacze.
+*MAM:	czemu koza płacze ?
+*MIS:	ja nie jestem koza .
+*MAM:	a co ty jesteś ?
+*MIS:	kozy nie płakają@g , tylko się śmieją .
+*MIS:	chi+chi , tak kozy się śmieją .
+@G:	Episode 37
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	jak Janeczek zawiązał drut , to maszynista nie chce się wychylać .
+%sit:	miś ma traktor , z którego w czasie jazdy wychyla się traktorzysta
+	.
+@G:	Episode 38
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	wytrzyj mi nos fartuchem , bo Janeczek podarł mi chusteczkę .
+*MAM:	zupełnie ci ją podarł ?
+*MIS:	na kawałki .
+*MAM:	to daj mi te kawałki .
+*MIS:	janeczek je zgubił .
+*MIS:	zupełnie zgubił .
+*MAM:	to poszukaj .
+*MIS:	nie mogę znależć , bo mocno [*] zgubił .
+@G:	Episode 39
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś wyciera sobie nos chusteczką.
+*MIS:	jaka koza wielka , patrz mama .
+*MIS:	ma skrzydła , taka koza wielka .
+@G:	Episode 40
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś opowiada mamie.
+*MIS:	jestem w kuchence .
+*MIS:	dom się nazywa cała kuchenka , tak mama .
+*MIS:	dom się nie nazywa kuchnia , tylko dom .
+*MIS:	ja teraz nakrywam do stołu krzesłami .
+@G:	Episode 41
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	mama , to jest bagaż .
+*MIS:	najlepiej to jest bagaż .
+*MAM:	gdzie ten bagaż ?
+*MIS:	z krzeseł robię mój bagaż .
+*MIS:	a bagaże jadą ?
+*MIS:	mają koła ?
+*MAM:	nie mają kół , bo to walizki i paczki .
+*MIS:	a co mają pod spodem , mama powiedz ?
+*MAM:	to zobacz co walizka ma pod spodem .
+*MIS:	ma małe kółko .
+*MIS:	ja jadę w bagażu , a walizki są na półce .
+*MIS:	mój bagaż ma kółka .
+*MIS:	a bagaż z drzewa ma inną dziurę .
+*MIS:	ja teraz śpię w bagażu , bo to mój wózek .
+*MIS:	a wózek walizek to też bagaż .
+@G:	Episode 42
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	patrz , mama .
+*MIS:	tam wysoko chmura .
+*MIS:	a sufit się nazywa chmura ?
+@G:	Episode 43
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MAM:	michał , a może byś poszedł i zamknął drzwi , które zostawiłeś
+	otwarte ?
+*MIS:	to nawet mogę wyjść dziurą z bagażu .
+*MIS:	oknami nie wolno .
+@G:	Episode 44
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	tu jest pokój .
+*MIS:	tatuś może przejść przez pokój i przez walichę@g .
+@G:	Episode 45
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś wchodzi między dwa położone na ziemi krzesła.
+*MIS:	pan ma duży pokój .
+*MIS:	ja siedzę .
+*MIS:	na bagażu wolno siedzieć , tylko na dziurze nie wolno .
+*MIS:	a ja mogę .
+*MIS:	tu są od jajków@g dziury .
+*MIS:	w tym są twarde jajka .
+*MIS:	ja będę miał wszystkie jajka ze skorupami .
+*MIS:	patrz mama , ile jajek w pudełkach .
+*MIS:	postawiłem ci i zakryłem pokrywkami .
+*MIS:	dużo jest jajek ?
+*MAM:	ja nie widzę nic .
+*MIS:	patrz , tu położyłem , i jeszcze tu .
+*MIS:	dużo jest .
+*MIS:	I twarde .
+*MIS:	tylko zębami można zdusić .
+@G:	Episode 46
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	te guziki , to ja kupiłem .
+*MAM:	tylko nie ruszaj , bo mi zgubisz .
+*MIS:	ja kupiłem i nie mogę ?
+@G:	Episode 47
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	W pokoju nie nikogo poza mamą i Misiem.
+*MIS:	mamusiu , ja chcę bilet na łódkę od pani Loli .
+@G:	Episode 48
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	ja jestem gruby , bo sięgam do ziemi .
+*MIS:	patrz mama .
+*MIS:	widziała mamusia ?
+%sit:	miś skacze i liczy: raz , dwa i trzy .
+@G:	Episode 49
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś przechodzi przez położone na ziemi krzesła.
+*MIS:	patrz mamusiu , ja przechodzę jedną nogą .
+*MAM:	a dlaczego jedną ?
+*MIS:	bo trzeba jedną .
+*MIS:	patrz jak idę .
+@G:	Episode 50
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	za sześć ja mam .
+*MIS:	za sześć .
+*MAM:	co tam masz ?
+*MIS:	za sześć jajków@g , a tam mam malutko jajeczków@g .
+*MAM:	jajeczek .
+*MIS:	one się nie wysypają@g , bo są z kaszy .
+*MIS:	z kaszy manny .
+@G:	Episode 51
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś stoi na krześle i rękami opiera się o stół daleko ,
+	potem blisko brzegu.
+*MIS:	mama , ja jestem na stole duży krok , a teraz mały kroczek .
+*MIS:	mały stroczek@g , stroczek@g mały .
+@G:	Episode 52
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	ja dla tatusia zostawiłem , i dla Janeczka i dla mamusi i dla wuja
+	Stasia .
+*MIS:	pojedziemy z tym na Strugę ?
+*MAM:	nie .
+*MIS:	a wuj Staś też chce jajka , bo jest głodny .
+@G:	Episode 53
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś wychodzi z pokoju.
+*MIS:	ja mam prysznic .
+*MAM:	gdzie idziesz ?
+*MIS:	idę do jajków@g wlać wody .
+%sit:	miś wraca .
+*MIS:	patrz mama , ile u jajków@g jest wody .
+*MAM:	u jajek .
+*MAM:	I nie wolno do pokrywki nalewać wody .
+*MIS:	u jajek musi być woda , bo potem są nie dobre .
+*MIS:	ja wyleję .
+*MIS:	a jajka nie wyleciały .
+@G:	Episode 54
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	patrz mama , jak pastą się wymyło .
+%sit:	pokrywka od czajnika .
+*MIS:	I ręka też jak pastą się wymyła .
+@G:	Episode 55
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś opowiada.
+*MIS:	kot miauczy miau+miau .
+*MIS:	myszka nie jadła obiadu , to musi zjeść kotka .
+*MIS:	myszka zjadła dużego kota , mała myszka .
+*MIS:	najadła się .
+*MAM:	a kto jest myszka ?
+*MIS:	ja .
+*MAM:	a kto jest kot ?
+*MIS:	ja zjadłem kota .
+*MIS:	ja zjadłem kota .
+*MIS:	ja jestem duża myszka .
+*MAM:	a jak woła myszka ?
+*MIS:	miau+miau [% wysoko] .
+*MAM:	a kotek jak ?
+*MIS:	też miau+miau [% trochę niżej] .
+*MIS:	patrz , kot ma wąsy , takie długie .
+%sit:	miś pokazuje skarpetkę .
+@G:	Episode 56
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	ja wyniosę swoje łóżko na podwórko .
+*MIS:	mycha@g , ta co nie ma ubrania , ma łóżko na podwórku .
+@G:	Episode 57
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	moja praca to jest .
+*MAM:	co ?
+*MIS:	dom cały moja praca to jest .
+@G:	Episode 58
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	mama , kto poszedł do piekła ?
+*MAM:	nie wiem .
+*MIS:	taki pan co ma duży karabin .
+*MAM:	a gdzie jest piekło ?
+*MIS:	a (.) diabeł ma .
+*MAM:	kto to jest diabeł ?
+*MIS:	a to taki ludź@g , co nie ma karabinu i roweru to diabeł .
+*MIS:	taki ludź .
+@G:	Episode 59
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	a co się nazywa wojsko ?
+*MIS:	a co się nazywa piec ?
+@G:	Episode 60
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	janeczek u Tadka zrobił dziurę , wie mama ?
+%sit:	miś ma na myśli świerszczyk .
+*CHI:	u jakiego Tadka ?
+*MIS:	a u tego .
+@G:	Episode 61
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Janek wozi Misia w wózku.
+*CHI:	się posuń [*] .
+*CHI:	tu nie .
+*CHI:	w tył , jeszcze w tył .
+*CHI:	się posuń [*] .
+*CHI:	już dosyć .
+*OJC:	gdzie wy jedziecie ?
+*CHI:	daleko .
+*CHI:	do Chomętowa po mąkę .
+*MIS:	ja tu mam workę@g .
+*CHI:	misiu już wiezie mąkę .
+*OJC:	do czego wam mąka potrzebna ?
+*CHI:	zrobić szarlotkę i ciastka .
+*CHI:	patrz tatuś , dwa kawałki mąki [*] .
+*OJC:	a nie wysypie ci się ta mąka ?
+*CHI:	oo nie , bo to są kawałki .
+*OJC:	a gdzieś ty widział mąkę w kawałkach ?
+*CHI:	a widziałem gdzieś , razem z cukrem .
+*MIS:	tam siedzi mąka .
+%sit:	miś pokazuje palcem na krzesło .
+@G:	Episode 62
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś mówi oburzony.
+*MIS:	mnie wywaliłeś .
+*CHI:	ale ty nie płaczesz .
+@G:	Episode 63
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*CHI:	cześć .
+%flo:	część .
+*MIS:	cześć .
+%flo:	część .
+%sit:	janek ustawia kanapkę .
+*CHI:	tu brama zamknięta .
+*CHI:	niech mamusia nikogo nie wpuszcza , tu zaraz przyjdzie złodziej .
+*MIS:	złodziej nie ukradnie .
+*CHI:	złodziej ukradnie krzesła .
+*CHI:	masz .
+*CHI:	o tym nie pamiętasz .
+*CHI:	to twoje wagoniki .
+*MIS:	obiad mi wytrząsłeś z wagonika .
+*MIS:	obiad z makaronu .
+@G:	Episode 64
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*CHI:	tu jechać nie wolno , bo tu ślimaka dom .
+*CHI:	zrobię z krzeseł .
+*MIS:	mnie weźmie ?
+*CHI:	diabeł cię nie ukradnie .
+*OJC:	jaki jest diabeł ?
+*CHI:	diabeł to złodziej .
+*CHI:	złodziej nie kradnie , tylko pije wódkę .
+*CHI:	złodziej to ludzi kradnie , i gotuje sobie na obiad na mięso , a
+	pupcię to wyrzuca .
+*OJC:	a nie pomyliłeś się ?
+*CHI:	nie pomyliłem się .
+*CHI:	śniło mi się .
+@G:	Episode 65
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*CHI:	a ja naprawdę byłem z Przemkiem i z babciunią nad Wisłą .
+%sit:	janek chodził z Babciunią dwa lata temu .
+@G:	Episode 66
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	a gdzie ślimak ?
+*CHI:	wysiądź , Misiu , razem będziemy obiad ciągnąć .
+*CHI:	ojeja , mak się wysypał .
+*CHI:	a to zupa ?
+*MIS:	zupa .
+*CHI:	to się wylała .
+*CHI:	od razu na talerze .
+*MIS:	mamusiu , zupa się wylała , popatrz .
+%flo:	mamusiu , żupa się wylała , popatrz .
+@G:	Episode 67
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*CHI:	jedziemy , otwórz bramę .
+*MIS:	już otwieram , jedź .
+*MIS:	[^ piszczy z radości] Teraz pozamykać@g .
+*CHI:	zamknąć .
+*MIS:	już zamyknąłem@g .
+*CHI:	nie umiesz posunąć dalej ?
+@G:	Episode 68
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś trzyma w ręce konia.
+*MIS:	to jest diabeł .
+*MIS:	ja trzymam diabła , Janeczek .
+*CHI:	to nie jest diabeł .
+*CHI:	oddaj , to mój .
+*MIS:	mama , to mój .
+*MIS:	daj mi .
+*MAM:	przynieś sobie konia z drugiego pokoju .
+*MIS:	idzie po konia .
+*MIS:	ja przejdę górą , nawet tam gdzie chmura .
+*MIS:	nawet tam gdzie chmura .
+@G:	Episode 69
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś wrócił z drugiego pokoju.
+*MIS:	diabeł mieszka , tam mieszka .
+*MAM:	a kto to jest diabeł ?
+*MIS:	tam mieszka .
+*MIS:	patrz , mamusiu , tam diabeł mieszka .
+@G:	Episode 70
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MAM:	wytrzemy nosek , bo masz brudny jak świnka .
+*MIS:	świnka nie ma nosa , świnka ma tu , pod brodą , a nie tu .
+%sit:	miś pokazuje na nos .
+@G:	Episode 71
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Jaś ma wojtusia z korków. Mówi o sobie:
+*CHI:	pani go udusi .
+*MIS:	pani chce go udusić .
+*CHI:	tatuś zrobił nam wiatrak , patrz .
+%sit:	janek trzyma wojtusia za rękę i kręci nim .
+*MIS:	nie , nie wiatrak , bo ma nogi .
+*MIS:	wiatraki nie mają nóg .
+*CHI:	ja byłem kiedyś na karuzeli i ona miała nogi .
+*MIS:	a moja &karu , &kalu , nie mogę powiedzieć , karuzela , miała inne
+	nogi .
+@G:	Episode 72
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Ojciec czyta fragment zdania.
+*OJC:	nie , się z nią podzielę .
+*MIS:	nie się z nią podzielę [*] , nie się z nią podzielę [*] .
+*MIS:	kto to widział tak mówić nie , się z nią podzielę .
+*MIS:	tak nie wolno mówić .
+@G:	Episode 73
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*CHI:	śpi , wstaje .
+%sit:	mówi to o Wojtusiu .
+*CHI:	ojej , złodziej .
+*CHI:	ty głupi złodzieju .
+*MIS:	by przyszedł diabeł i zabrał .
+*CHI:	nie weźmie go .
+*MIS:	a mucha się przyczepiła do Wojtusia .
+@G:	Episode 74
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	dom ja robię .
+*CHI:	dla Wojtusia ?
+*CHI:	zrób dla Wojtusia .
+*MIS:	dla Wojtusia ja robię .
+@G:	Episode 75
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*CHI:	płynie łóćka@g , a w łóćce@g sobie ładny Wojtuś .
+%flo:	płynie łóćka , a w łóćcie siobie ładny Wojtuś .
+*CHI:	jak zobaczy , to zaraz kogoś przejedzie .
+%flo:	jak ziobaci , to ziaraś kogoś psiejedzie .
+*CHI:	I tak sobie patrzy , a tu ktoś wchodzi do łócieczki@g .
+%flo:	I tak siobie paci , a tu ktoś wchodzi do łóciećki .
+*CHI:	wyłaź ty głuptaku !
+@G:	Episode 76
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Jaś szuka wszędzie.
+*CHI:	gdzie Wojtuś ?
+*MIS:	ja popsułem , jest za butami .
+*CHI:	ja szukałem Wojtusia .
+*CHI:	misiu popsuł i zgubił .
+*MIS:	za szafkę pojechał .
+*CHI:	za szafkę wsadziłeś ?
+*MIS:	za szafkę pojechał .
+*MIS:	za tę małą .
+*CHI:	niema nigdzie .
+*CHI:	misiu zgubił .
+*OJC:	co ?
+*CHI:	no , Wojtusia .
+*CHI:	misiu popsuł , to musi już teraz płacić za Wojtusia .
+@G:	Episode 77
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Janeczek podlewał kwiatki.
+*CHI:	bo kwiatki piją , tak samo jak dzieci piją .
+*CHI:	mają sok w brzuszku .
+*OJC:	kto ci to powiedział ?
+*CHI:	ja sam wiem , bo piją i żyją .
+*CHI:	gdyby nie miały soku , to by nie żyły .
+@G:	Episode 78
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Miś rzuca ołówek.
+*MAM:	nie rzucaj ołówka .
+*MIS:	muszę , bo mam krótkie ręce i nie sięgnę .
+*MIS:	muszę rzucać , bo nie sięgnę .
+@G:	Episode 79
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	na niedzielę mam wiatrak .
+%sit:	ma na myśli gazetę na kiju .
+*CHI:	czy takie są wiatraki ?
+*MIS:	są .
+*MIS:	nie , mama ?
+*CHI:	są inne .
+*CHI:	takich nie+ma .
+*CHI:	popatrz , mama , czy takie są wiatraki ?
+*CHI:	ja ci zrobię inny .
+*CHI:	daj , Misiu .
+*MIS:	nie .
+*CHI:	ja ci inny , śliczny wiatraczek zrobię .
+*MIS:	co robisz z tego ?
+%sit:	chodzi Misiowi o kawałek gazety .
+*CHI:	wiatraczek .
+*MIS:	musisz mi bilet zrobić .
+*CHI:	nie chcesz , to nie , ja ci nie popsuję .
+@G:	Episode 80
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MAM:	nie wolno drzeć papieru .
+*CHI:	a jak chcę zrobić pasek , to pasek .
+*MAM:	do czego pasek ?
+*MIS:	do bicia .
+@G:	Episode 81
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*CHI:	krysia nie ma roweru , bo nie umie jeździć .
+*MIS:	bo sobie popsuła .
+*CHI:	nie popsuła , tylko nie umie jeździć .
+*CHI:	bo ona jest dziewczyna .
+*CHI:	ona umie , tylko nie potrafi .
+@G:	Episode 82
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+@Situation:	Janek urwał kawałek gazety.
+*CHI:	mamusiu , ja mam samolocik , sobie zrobiłem .
+*MIS:	a gdzie łódka ?
+*MIS:	ja mam torebkę .
+*CHI:	samolocik .
+*MIS:	ja to darłem , to moje .
+*CHI:	ja mam swój , a ty swój .
+*CHI:	dobrze ?
+@G:	Episode 83
+@Comment:	Age of CHI is 4;2.1
+@Comment:	Age of MIS is 2;9.11
+*MIS:	co ja wydarłem ?
+*MIS:	a co ja wydarłem ?
+*MIS:	co ja , Janeczek wydarłem ?
+%sit:	janeczek nie słucha .
+*MIS:	co ja wydarłem ?
+*CHI:	no , serduszko .
+@G:	Episode 84
+@Comment:	Age of CHI is 4;2.2
+@Comment:	Age of MIS is 2;9.12
+@Situation:	Miś mówi o sportowcu.
+*MIS:	golas ma żółte spodnie i buty .
+*MAM:	golas ma spodnie czerwone .
+*MIS:	żółte , bo się świecą .
+@G:	Episode 85
+@Comment:	Age of CHI is 4;2.2
+@Comment:	Age of MIS is 2;9.12
+@Situation:	W świerszczyku - Tadek-niejadek.
+*MIS:	ten Tadek jest u Bozi .
+*MIS:	ten Tadek poszedł do Bozi .
+*MIS:	nie chciał zjeść , ale zjadł lizaki z trumną .
+*OJC:	a gdzie ta trumna ?
+*MIS:	niema .
+*MIS:	za drzewem .
+%sit:	miś szuka w świerszczyku .
+*MIS:	za tym drzewem .
+@G:	Episode 86
+@Comment:	Age of CHI is 4;2.2
+@Comment:	Age of MIS is 2;9.12
+@Situation:	Miś rysuje.
+*MIS:	patrz , co ja narysowałem .
+*MAM:	może to miś ?
+*MIS:	nie , takie coś .
+*MIS:	a teraz co narysowałem ?
+*MAM:	pewnie takie coś .
+*MIS:	nie , to czekolada .
+*MIS:	a teraz narysowałem farmatę@g .
+*MAM:	co to jest farmata@g ?
+*MIS:	to jest farmata@g .
+*MAM:	a co się robi farmatą@g ?
+*MIS:	strzela się .
+*MIS:	wie mama ?
+@G:	Episode 87
+@Comment:	Age of CHI is 4;2.2
+@Comment:	Age of MIS is 2;9.12
+@Situation:	Miś wraca od współlokatorów , którzy mają dzieci w wieku
+	6-10 lat.
+*MIS:	mnie u dzieci nie dobrze .
+*MAM:	a dlaczego ci u dzieci nie dobrze ?
+*MIS:	bo Dorotka mnie szarpała .
+*MAM:	a dlaczego ci u mamusi dobrze ?
+*MIS:	bo Dorotka mnie szarpała .
+@G:	Episode 88
+@Comment:	Age of CHI is 4;2.2
+@Comment:	Age of MIS is 2;9.12
+*MAM:	muszę zobaczyć , która godzina .
+%sit:	miś patrzy na zegar .
+*MIS:	trzydzieści jeden , szesnaście .
+@G:	Episode 89
+@Comment:	Age of CHI is 4;2.2
+@Comment:	Age of MIS is 2;9.12
+@Situation:	Miś przynosi mamie zarysowany papierek i mówi.
+*MIS:	narysowałem bzdykebe@g i bzdurykebe@g .
+*MAM:	a co to jest bzdykebe@g ?
+*MIS:	ja narysowałem .
+*MAM:	a do czego to jest ?
+*MIS:	do robienia tak .
+%sit:	miś chodzi na czworakach .
+*MIS:	I do bawienia .
+*MIS:	wie mama ?
+@G:	Episode 90
+@Comment:	Age of CHI is 4;2.2
+@Comment:	Age of MIS is 2;9.12
+@Situation:	Mama ubiera Misia w kalosze.
+*MIS:	nie wkładaj mi tych , bo by się przewróciłem [*] bo na głowę .
+*MAM:	co to znaczy: bo na głowę ?
+*MIS:	ja by się przewróciłem [*] bo na głowę w tych papciach .
+@G:	Episode 91
+@Comment:	Age of CHI is 4;2.2
+@Comment:	Age of MIS is 2;9.12
+@Situation:	Chłopcy siedzą przy stole.
+*CHI:	to tatusiowy filodendron , bo tatuś mówił , żeby mamusia nie
+	ruszała .
+*CHI:	bo mamusia kiedyś dawniej była malutka .
+*CHI:	jak Miś .
+*CHI:	nie , jak ja .
+*CHI:	jak Jareczek .
+%sit:	jareczek ma pięć tygodni .
+*CHI:	gdy mama była niegrzeczna , to tatuś powiedział dostaniesz pasem ,
+	to mamusia siadała na ziemi i mówiła: pucia siedzi .
+%sit:	mama opowiadała ten epizod Janeczkowi z jego własnego życia .
+@G:	Episode 92
+@Comment:	Age of CHI is 4;2.2
+@Comment:	Age of MIS is 2;9.12
+@Situation:	Michał idzie z mamą do przedszkola po Janeczka. Na ulicy
+	leży trochę śniegu. śnieg jest suchy.
+*MIS:	mamusiu patrz , tu leży cukier rozdeptany .
+*MAM:	to nie cukier , to śnieg .
+*MIS:	a ja zrobię z tego cukier .
+*MIS:	nie , sól .
+*MIS:	popatrz mamusiu , tu leży sól .
+*MIS:	taki@g kwaśny@g .
+%sit:	michał rozdeptuje większe grudki śniegu i robi w ten sposób "sól" .
+@G:	Episode 92a
+@Comment:	Age of CHI is 4;2.2
+@Comment:	Age of MIS is 2;9.12
+@Situation:	Chłopcy siedzą przy stole i piją zsiadłe mleko ze szklanek.
+*CHI:	ja lubię to żółte .
+%sit:	ma na myśli śmietanę na mleku .
+*MIS:	ja nie lubię .
+%sit:	miś zjada właśnie śmietankę .
+*CHI:	ja zjem na+końcu z tym .
+%sit:	janeczek pokazuje na chleb z mięsem .
+*MIS:	a ja na+końcu z masłem .
+*CHI:	czemu mama pisze w zeszycie ?
+*MAM:	bo w zeszycie mi lepiej niż na kartkach .
+%sit:	mama notuje ich wypowiedzi .
+*MIS:	bo w zeszycie lepiej .
+%sit:	miś pije mleko .
+*MIS:	duże bulby@g wleciały do brzucha .
+*CHI:	bulbały@g ?
+*MIS:	tak , bulbały@g , bul+bul .
+*MAM:	michał , postaw już tą szklankę .
+*MIS:	muszę wypić te bomby .
+*MIS:	patrz ile bombów@g .
+*MAM:	mówi się bomb .
+*CHI:	a tu czysta filiżanka .
+*MAM:	to jest szklanka .
+*CHI:	fili+fili , filifa .
+*MIS:	fili+fili , filifa .
+*CHI:	ja dłużej mówiłem fili+fili .
+%sit:	mama mówi do Janeczka .
+*MAM:	zjedz jeszcze ten kawałek .
+*CHI:	ja już zjadłem dwa z mięsem .
+*MAM:	jeden .
+*CHI:	nie , bo na początku jeden z mięsem .
+*MAM:	to już nie chcesz ?
+*CHI:	nie .
+*CHI:	bo dwa mam zjeść z mięsem ?
+*MIS:	ja chcę dużo z mięsem .
+*MAM:	więc proszę jeść .
+*MIS:	dziękuję ja powiedziałem .
+%sit:	miś odchodzi , potem wraca po drugi kawałek chleba .
+*MAM:	powiedziałeś dziękuję .
+*MIS:	ja powiedziałem proszę .
+@G:	Episode 93
+@Comment:	Age of CHI is 4;2.2
+@Comment:	Age of MIS is 2;9.12
+@Situation:	Janeczek już zjadł kolację , Michał kończy jedzenie.
+*CHI:	miś , chodź się gonić .
+*MIS:	jak to zjem .
+*MAM:	janeczek , zbieraj zabawki .
+%sit:	chłopcy przed snem zbierają swoje zabawki do pudła .
+*CHI:	kiedy ganiać się muszę .
+%sit:	janeczek przestaje biegać i zaczyna zbierać zabawki .
+*MIS:	ja jem to nie mogę zbierać .
+*CHI:	mamusia mówiła , że masz zbierać ?
+*MIS:	tak , ale ja nie chcę .
+*CHI:	już zjadłeś ?
+*MIS:	tak , już powiedziałem dziękuję .
+%sit:	chłopcy zbierają zabawki razem .
+*MAM:	wszystko już zebrane ?
+*CHI:	tak .
+*MAM:	a co robi słoń na tapczanie ?
+*MIS:	to dzidzia .
+%sit:	janeczek znalazł przyniesiony przez siebie z przedszkola liść od
+	fikusa .
+*CHI:	patrz , Miś , to wrona z liścia .
+*CHI:	samolot .
+*MIS:	wrona .
+%sit:	janeczek rzuca liść .
+*CHI:	pofrunęła .
+*MIS:	pofrunęła .
+*CHI:	ja mam z liścia wronę .
+*MIS:	gdzie jest samolot , co był ?
+%sit:	miś ma na myśli ten sam liść .
+*CHI:	będę niósł tę wronę do przedszkola .
+*CHI:	będę ją sobie smacznie [*] puszczał .
+*CHI:	ten samolocik z listka .
+%sit:	janeczek bierze słonia z tapczanu i mówi .
+*CHI:	dzidzia idzie teraz do łóżeczka .
+%flo:	dzidzia idzie teraz do łóziećka .
+*MIS:	to nie tam , tu domek .
+*MAM:	wszystko już pozbierane ?
+*CHI:	tak .
+*MAM:	a jeszcze jakiś patyk tu leży .
+*CHI:	patyk to do pieca .
+*MIS:	to nie patyk , to karabin .
+@G:	Episode 94
+@Comment:	Age of CHI is 4;2.2
+@Comment:	Age of MIS is 2;9.12
+@Situation:	Chłopcy naśmiecili skrawkami gazet w całym pokoju.
+*MAM:	zabierzcie te gazety .
+*MIS:	to obrazki .
+*MAM:	włóżcie je za piec .
+*CHI:	obrazków się nie kładzie za piec .
+*CHI:	się wiesza [*] .
+*MIS:	bo by mama spaliła .
+@G:	Episode 95
+@Comment:	Age of CHI is 4;2.3
+@Comment:	Age of MIS is 2;9.13
+@Situation:	Chłopcy jedzą śniadanie. Jest niedziela , więc Janeczek
+	jest w domu.
+*MAM:	janeczek , zjedz ten chleb .
+*CHI:	nie mogę , jestem zmęczony .
+*OJC:	to nie pójdziesz na Kępę .
+%sit:	chłopcy po śniadaniu mają pójść z ojcem na Kępę Bazarową .
+*CHI:	ja trochę jestem zmęczony .
+*CHI:	jak przyjdę z Kępy , to będę bardzo zmęczony , bo to jest daleko .
+%sit:	około 1 km . Jedzie się tramwajem , a potem schodzi z mostu w dół .
+@G:	Episode 96
+@Comment:	Age of CHI is 4;2.3
+@Comment:	Age of MIS is 2;9.13
+@Situation:	Chłopcy mają nowe palta i bardzo chcą je dzisiaj włożyć.
+*MIS:	kogo@g to małe palteczko ?
+*MAM:	to moja kurtka .
+*MIS:	taka mała kurtka ?
+%sit:	mama wstaje od stołu .
+*MIS:	mama , jak wstaniesz , to podziękuj .
+%sit:	chłopcy muszą dziękować gdy wstają od stołu .
+@G:	Episode 97
+@Comment:	Age of CHI is 4;2.3
+@Comment:	Age of MIS is 2;9.13
+*MIS:	ja pójdę z mamą na Kępę .
+*MIS:	bo z tatą się przewrócę .
+*MAM:	będziesz się tatusia trzymał .
+*MIS:	nie mogę , bo ja z tatusiem spadnę z ogrodu@g .
+*MAM:	z jakiego ogrodu ?
+*MIS:	ja spadłem , wie mama ?
+@G:	Episode 98
+@Comment:	Age of CHI is 4;2.5
+@Comment:	Age of MIS is 2;9.15
+@Situation:	Rano , chłopcy wstają.
+*MIS:	gdzie mama była na zebraniu ?
+*MAM:	w mieście daleko .
+*CHI:	a co robili na zebraniu ?
+*MAM:	mówili , grali , śpiewali i tańczyli .
+*MAM:	klaskali .
+%sit:	mama była na trzydniowym zlocie twórców ludowych z występami
+	zespołów regionalnych .
+*MIS:	mama śpiewała ?
+*MAM:	nie .
+*MAM:	ja nie śpiewam .
+*MAM:	ja klaskałam .
+*CHI:	bo mamusia nie jest pijana .
+%sit:	mieszkają w tym samym mieszkaniu z notoryczną pijaczką . Przez
+	ściany słychać jej pijackie śpiewy i często w stanie nietrzeźwym
+	przychodziła do nich .
+@G:	Episode 99
+@Comment:	Age of CHI is 4;2.5
+@Comment:	Age of MIS is 2;9.15
+@Situation:	Jaś kicha.
+*CHI:	mamusiu , ja kichałem .
+*MAM:	to pewnie masz katar .
+*MIS:	a ja mam kozy w nosie .
+*MIS:	zabierz mi te kozy .
+*MAM:	weź chusteczkę i wytrzyj nos .
+*MAM:	kozy uciekną .
+@G:	Episode 10
+@Comment:	Age of CHI is 4;2.5
+@Comment:	Age of MIS is 2;9.15
+@Situation:	Czekają na ciocię , która obiecała przyjechać.
+*MAM:	miś , przyjedzie dzisiaj ciocia ?
+*MIS:	przyjedzie , bo jakby nie przyjechała , to by lokomotywa płakała .
+*MAM:	a jak by ta lokomotywa płakała ?
+*MIS:	a tak “wyje@o” .
+@G:	Episode 101
+@Comment:	Age of CHI is 4;2.5
+@Comment:	Age of MIS is 2;9.15
+*MIS:	pójdzie mamusia dzisiaj na zebranie ?
+*MAM:	pójdę .
+*MIS:	ze mną ?
+*MAM:	nie , sama .
+*MAM:	zebranie jest tylko dla dorosłych .
+*MIS:	ja jestem dorosły .
+*MIS:	duży chłopar@g .
+@G:	Episode 102
+@Comment:	Age of CHI is 4;2.5
+@Comment:	Age of MIS is 2;9.15
+@Situation:	Przed południem przywieziono dla kogoś z kamienicy węgiel.
+*MIS:	mamusiu , gdzie jest ten wóz z węgielem@g ?
+%flo:	mamusiu , gdzie jest ten wóz z więgielem ?
+*MAM:	nie+ma go .
+*MAM:	odjechał już .
+*MIS:	nie odjechał , stoi koło dozorcowej [*] domu .
+%com:	mis mówi; ta dozorca .
+*MIS:	tam , koło wózkowej spiżarki [*] .
+%sit:	mała szopka na wózek inwalidzki sąsiada .
+@G:	Episode 103
+@Comment:	Age of CHI is 4;2.5
+@Comment:	Age of MIS is 2;9.15
+@Situation:	Mama pisze. Miś przynosi kawałek papieru i prosi.
+*MIS:	mama , narysuj mnie pod mostem .
+*MIS:	tu , pod spodem .
+*MIS:	bo most ma dach .
+%sit:	miś rysuje sam .
+*MIS:	ja urodzę dzidzię , malucieńką@g , we wózku .
+*MIS:	będzie sobie czytała książkę swoją , potem naszą .
+@G:	Episode 104
+@Comment:	Age of CHI is 4;2.5
+@Comment:	Age of MIS is 2;9.15
+*MIS:	daj mi lizaka .
+*MAM:	sam jesteś lizak .
+*MIS:	ja nie jestem lizak .
+*MIS:	ja jestem gruby .
+*MAM:	dlaczego ?
+*MIS:	bo się napchałem obiadu [*] .
+@G:	Episode 105
+@Comment:	Age of CHI is 4;2.5
+@Comment:	Age of MIS is 2;9.15
+@Situation:	Miś w ręce ma kawałek gazety.
+*MIS:	ten papier jest do wycierania szybów@g .
+*MAM:	szyb .
+*MIS:	ten papier jest do wycierania szyb .
+%sit:	tym razem Miś mówi do współlokatorki .
+*MIS:	dobrze ja powiedziałem ?
+*MIS:	do wycierania szyb .
+@G:	Episode 106
+@Comment:	Age of CHI is 4;2.5
+@Comment:	Age of MIS is 2;9.15
+@Situation:	Miś siedzi z mamą na tapczanie.
+*MIS:	co jest pod nami ?
+*MAM:	tapczan .
+*MIS:	a pod tapczanem ?
+*MAM:	podłoga .
+*MIS:	a pod podłogą ?
+*MAM:	piwnica .
+*MIS:	a pod piwnicą ?
+*MAM:	nic .
+*MIS:	nie nic .
+*MIS:	żabki , a nie nic .
+*MIS:	żabki .
+*MIS:	mama się pomyliła .
+@G:	Episode 107
+@Comment:	Age of CHI is 4;2.5
+@Comment:	Age of MIS is 2;9.15
+@Situation:	Miś stoi i trzyma w ręce kółko i jakiś papierek.
+*MIS:	co będzie dla mnie z tych chrustaków@g ?
+*MAM:	co to jest chrustaki@g ?
+*MIS:	to takie piesy@g .
+*MAM:	psy ?
+*MIS:	nie , piesy@g .
+*MAM:	a co one robią ?
+*MIS:	spodnie mi podarły .
+@G:	Episode 108
+@Comment:	Age of CHI is 4;2.5
+@Comment:	Age of MIS is 2;9.15
+@Situation:	Nikt ani dzisiaj ani w poprzednich dniach nie rozmawiał z
+	Misiem , ani przy nim o żadnych trumnach czy nieboszczykach.
+*MIS:	trumny gryzą ?
+*MAM:	nie , trumny nie gryzą .
+*MAM:	są zrobione z drzewa .
+*MIS:	a mają buzie ?
+*MAM:	nie , nie mają .
+*MIS:	[^ krzyczy] Mają buzie , ja widziałem .
+@G:	Episode 109
+@Comment:	Age of CHI is 4;2.6
+@Comment:	Age of MIS is 2;9.16
+@Situation:	Miś czyta świerszczyk.
+*MIS:	tu dziecko sięga do swojej czapy wielkiej .
+%sit:	chochoł na okładce świerszczyka .
+*MIS:	a tu chłopczyk malował klamkę .
+*MIS:	na drugiej stronie też .
+*MIS:	a tu jego samolot , a tu jego klocki .
+*MIS:	jeszcze bułki namalował i schował .
+*MIS:	jeszcze tu inne sprawunki .
+*MIS:	inne sprawy .
+@G:	Episode 110
+@Comment:	Age of CHI is 4;2.6
+@Comment:	Age of MIS is 2;9.16
+@Situation:	Wracając z przedszkola spotykamy znajomego , który opowiada
+	, że jutro odlatuje do Francji. Janek w domu pyta.
+*CHI:	mamusiu , a gdzie mieszka pan Marek ?
+*MAM:	w Toruniu .
+*MAM:	na ulicy Mickiewicza .
+*CHI:	a tam trzeba lecieć samolotem ?
+*MAM:	nie , pieszo się chodzi , bo to blisko .
+*MAM:	pan Marek jedzie samolotem do Francji .
+*CHI:	a Francuzi mają daleko swój dom ?
+*CHI:	czy tak daleko jak Lublin ?
+%sit:	chłopcy jeżdżą do Lublina do babci .
+*MAM:	do Francji jest dalej niż do Lublina .
+*MAM:	trzeba jechać dłużej .
+@G:	Episode 110a
+@Comment:	Age of CHI is 4;2.7
+@Comment:	Age of MIS is 2;9.17
+@Situation:	Miś razem z mamą i małą sąsiadeczką (9 lat) jest w kuchni.
+	Nie słucha tego , co mówi mama.
+*MAM:	miś , jak będziesz niegrzeczny nie pójdziesz do przedszkola .
+*MIS:	to ja polecę .
+*EWA:	na skrzydłach polecisz ?
+*MIS:	kto to widział , żeby ludź miał skrzydła .
+@G:	Episode 111
+@Comment:	Age of CHI is 4;2.7
+@Comment:	Age of MIS is 2;9.17
+@Situation:	Przyszły właśnie skrzynki z jabłkami i Michał je bez
+	przerwy jabłka.
+*MIS:	daj mi jabłuszko .
+*MAM:	nie dam .
+*MAM:	brzuch cię będzie bolał .
+*MIS:	jak nie zjem jabłka , to wtedy .
+*MIS:	wie mama ?
+@G:	Episode 112
+@Comment:	Age of CHI is 4;2.7
+@Comment:	Age of MIS is 2;9.17
+*CHI:	opowiedz nam bajkę o tym gęsie jaje , o piesku i o gęsi kudłatej i
+	o tym +...
+*MIS:	o Kasi .
+*CHI:	nie .
+*CHI:	o gęsi kudłatej .
+*CHI:	opowiedz .
+*MAM:	teraz nie mogę .
+%sit:	mama opowiadała dzieciom bajeczkę o gąsce siodłatej i o gęsim jaju
+	.
+@G:	Episode 113
+@Comment:	Age of CHI is 4;2.7
+@Comment:	Age of MIS is 2;9.17
+@Situation:	Michał nasypał węgla w wagoniki kolejki i wozi po pokoju.
+*MAM:	michał , wynieś w tej chwili węgiel do kuchni .
+*CHI:	w kuchni węgla nie+ma .
+*MIS:	ja wyniosę do łazienki .
+@G:	Episode 114
+@Comment:	Age of CHI is 4;2.7
+@Comment:	Age of MIS is 2;9.17
+@Situation:	Jaś ogląda obrazki w świerszczyku.
+*MIS:	mamusiu , co to ?
+*MAM:	piesek .
+*CHI:	nie , to kotek , bo pies nie ma ucha zakręconego .
+@G:	Episode 115
+@Comment:	Age of CHI is 4;2.7
+@Comment:	Age of MIS is 2;9.17
+*CHI:	mamusiu nam poczytaj .
+*MAM:	teraz nie mogę .
+*CHI:	będziesz tam patrzyła i tu .
+%sit:	mama pisze w zeszycie .
+*MIS:	mama poczytaj , Janeczek nie umie .
+*CHI:	ja umiem .
+*CHI:	tam gdzie kotki .
+%sit:	janeczek bierze świerszczyk i czyta .
+*CHI:	idzie Ewka , idzie babcia , idzie Jadziunia .
+*CHI:	miś został w domu , a tu coś stoi .
+*MIS:	jabłuszka brudne , żółte .
+*CHI:	ja dalej będę czytał .
+%sit:	janeczek przewraca kartki w świerszczyku .
+*MIS:	tu miś idzie .
+*CHI:	a dziewczynka stoi .
+*MIS:	tu miś z igiełką i będzie go brzuch bolał .
+*CHI:	nie , on szyje .
+*MIS:	szmatkę .
+*CHI:	nie , taki księżyc do płaszczyka .
+*MIS:	gdzie płaszczyk ?
+*CHI:	na płaszczyku miś siedzi .
+*MIS:	nie , na dywanie .
+*MIS:	nie , mama ?
+%sit:	oglądają w świerszczyku historię o nieporządnej lali , której miś
+	kupił igły a ona je pogubiła . Jedna igła była w chlebie , druga w
+	poduszeczce a trzecia w dywaniku .
+@G:	Episode 116
+@Comment:	Age of CHI is 4;2.7
+@Comment:	Age of MIS is 2;9.17
+@Situation:	Janeczek kładzie się na tapczanie i mówi do Michała.
+*CHI:	śpię .
+*MIS:	kako@g tam leży ?
+*CHI:	dziecko , nie rusz tatusia .
+*MIS:	ja wujek jestem .
+*CHI:	tatuś chce spać .
+*CHI:	co ty wujuchu@g robisz ?
+%sit:	miś wchodzi na tapczan do Janeczka .
+*MIS:	ja wujek jestem , nie wujuch@g .
+@G:	Episode 117
+@Comment:	Age of CHI is 4;2.7
+@Comment:	Age of MIS is 2;9.17
+*MAM:	janeczek , gdzie są twoje rajtuzy ?
+*CHI:	tam gdzie siedziałem .
+*MAM:	a gdzie powinny być ?
+%sit:	janeczek bierze rajtuzy i odnosi na miejsce .
+@G:	Episode 118
+@Comment:	Age of CHI is 4;2.7
+@Comment:	Age of MIS is 2;9.17
+*CHI:	no , już poukładałem .
+*CHI:	teraz się wujek położy .
+%sit:	janeczek kładzie się i bierze do ręki świerszczyk .
+*MIS:	gdzie misiu ?
+*CHI:	tu misiu .
+*CHI:	tu misiu .
+*MIS:	a gdzie komisiu@g ?
+*CHI:	tutaj .
+@G:	Episode 119
+@Comment:	Age of CHI is 4;2.7
+@Comment:	Age of MIS is 2;9.17
+@Situation:	Miś nosi zawiązane w chusteczce od nosa klocki.
+*MAM:	misio , chusteczka jest do wycierania nosa a nie do zawiązywania w
+	nią pociągu .
+*MIS:	to nie pociąg .
+*MAM:	a co ?
+*MIS:	to koszyk .
+*CHI:	to wyrzuć koszyk , bo wujek się zgniewa .
+*MIS:	nie wujek , tylko tatuś .
+*CHI:	ja teraz jestem wujek .
+@G:	Episode 120
+@Comment:	Age of CHI is 4;2.7
+@Comment:	Age of MIS is 2;9.17
+@Situation:	Miś przewrócił się.
+*MIS:	mama mi przeszkadzała .
+*CHI:	miś , powiedz: się przewróciłam [% @SZYK] .
+*MIS:	nie .
+*CHI:	powiedz mamusi: się przewróciłam .
+*MIS:	ja jestem pies , mamusiu .
+*CHI:	ty jesteś ona .
+@G:	Episode 121
+@Comment:	Age of CHI is 4;2.7
+@Comment:	Age of MIS is 2;9.17
+*CHI:	mamusiu , ja się będę sam rozbierał ?
+*MAM:	nie , ze mną .
+*CHI:	bo ja się sam nigdy nie rozbierałem .
+%sit:	kąpiel jest już prawie gotowa . Chłopcy nie mogą się jej doczekać .
+*CHI:	narysuj mi mamusiu koguta .
+%sit:	po narysowaniu przez mamę koguta Janeczek mówi .
+*CHI:	nie , to jest podobne do kury .
+@G:	Episode 122
+@Comment:	Age of CHI is 4;2.7
+@Comment:	Age of MIS is 2;9.17
+@Situation:	Mama wyjmuje Misia z wanny.
+*MIS:	daj mi moje papcie , bo ja chcę być babulinką .
+*MAM:	tatuś cię poniesie .
+%sit:	gdy ojca nie ma w domu , dzieci po kąpieli idą do łóżek same , w
+	papciach i zawinięte ręcznikiem "na babulinkę" .
+*MIS:	ja nie chcę , bo by spadłem [*] i co , ładnie by było ?
+*MAM:	to byś się stłukł .
+*MIS:	nie , bo dzieci się nie tłuką .
+*MIS:	a mama mówi , że się tłuką .
+*MIS:	my nie jesteśmy ze szkła .
+*MIS:	mama nie dobrze mówi , że dzieci się tłuką .
+*MIS:	my nie jesteśmy ze szkła .
+@G:	Episode 123
+@Comment:	Age of CHI is 4;2.8
+@Comment:	Age of MIS is 2;9.18
+@Situation:	Mama ubiera Misia. Ma skazę i swędzi go ciało.
+*MIS:	mnie gryzą robaki .
+*MAM:	to nic .
+*MAM:	robaki są małe , a ty duży .
+*MIS:	to ja robaki rozdeptam .
+*MIS:	one się straszą [*] , jak ja je nadeptam ?
+*MIS:	robaki się straszą [*] , tak mama ?
+@G:	Episode 124
+@Comment:	Age of CHI is 4;2.8
+@Comment:	Age of MIS is 2;9.18
+@Situation:	Miś słucha przez radio piosenki o Dorotce.
+*MIS:	mamusiu , jak się robi kolebusię ?
+*MAM:	nie wiem .
+*MIS:	mama , tylko powiedz .
+*MIS:	[^ do siebie] A mama nie wie .
+*MIS:	nic nie wie .
+@G:	Episode 125
+@Comment:	Age of CHI is 4;2.8
+@Comment:	Age of MIS is 2;9.18
+*MAM:	michał , zbieraj klocki .
+*MIS:	nie mogę , bo by się zmęczyłem [*] .
+@G:	Episode 126
+@Comment:	Age of CHI is 4;2.8
+@Comment:	Age of MIS is 2;9.18
+@Situation:	Miś wkłada piżamę.
+*MAM:	w majtki wkłada się nogi , nie ręce .
+*MIS:	a ja myślałem , że ręce .
+@G:	Episode 127
+@Comment:	Age of CHI is 4;2.8
+@Comment:	Age of MIS is 2;9.18
+*CHI:	a ja ci nie dam kija .
+*MIS:	a ja mogę strzelać .
+*MIS:	mam dziurkę do strzelania .
+@G:	Episode 128
+@Comment:	Age of CHI is 4;2.8
+@Comment:	Age of MIS is 2;9.18
+@Situation:	Chłopcy leżą już w łóżkach.
+*MIS:	a jakby mama ubrała się i poszła ?
+*MAM:	teraz nigdzie nie pójdę .
+*MIS:	a jakby mama włożyła kurtkę i poszła ?
+*MAM:	teraz nigdzie nie idę .
+*MIS:	ale jakby się mama ubrała ?
+@G:	Episode 129
+@Comment:	Age of CHI is 4;2.9
+@Comment:	Age of MIS is 2;9.19
+@Situation:	Miś przynosi elementarz.
+*MIS:	oo , poczytam mamusi .
+*MIS:	patrz mama , co tu napisane .
+%sit:	miś rozkłada elementarz i pyta o każdy obrazek .
+@G:	Episode 130
+@Comment:	Age of CHI is 4;2.9
+@Comment:	Age of MIS is 2;9.19
+@Situation:	Chłopcy razem z Heniem (6 lat) bawią się pudełkiem po
+	lekarstwie , zamyka się ono tak samo jak pudełko od zapałek.
+*HEN:	to żywe , to wychodzi .
+%sit:	henio mówi o środku pudełka .
+*CHI:	to nie żywe .
+*MIS:	gdzie tam , to nie żywe .
+@G:	Episode 131
+@Comment:	Age of CHI is 4;2.12
+@Comment:	Age of MIS is 2;9.22
+@Situation:	Dzieci jedzą kolację.
+*CHI:	a ja jeszcze mamusi nie powiedziałem o obiadku .
+*MAM:	to opowiedz mi co jadłeś .
+*CHI:	jadłem placek i jeszcze zupkę , taką ziemniakową@g i jeszcze kompot
+	stał koło kartofelków .
+*MIS:	a potem co było ?
+*CHI:	już mówiłem o kompociku .
+*CHI:	I jeszcze był placek .
+@G:	Episode 132
+@Comment:	Age of CHI is 4;2.12
+@Comment:	Age of MIS is 2;9.22
+*CHI:	mamusiu , a gdzie mieszkają pijanowie@g i chuliganowie@g ?
+*CHI:	pewnie w ciepłych krajach ?
+*MAM:	to są nie grzeczni panowie , mieszkają wszędzie .
+*MAM:	mówią brzydko , tłuką szyby i przeszkadzają ludziom .
+*CHI:	to oni mówią wyrazy ?
+%sit:	o pijakach i chuliganach u nas w domu się nie mówi . Gdy
+	wychodziliśmy z przedszkola , jedna z dziewczynek się wróciła z
+	drogi gdyż , jak twierdziła , pijacy ją gonili .
+@G:	Episode 133
+@Comment:	Age of CHI is 4;2.13
+@Comment:	Age of MIS is 2;9.23
+@Situation:	Miś leży w łóżku. Janeczek przyszedł z przedszkola.
+*CHI:	miś , ja ci coś pokażę .
+*CHI:	w kuchni mam w dzbanku .
+%sit:	janeczek przynosi z kuchni stary czajnik pełen papieru .
+*MIS:	to mój pasek .
+%sit:	pasek papieru , który Miś dostał wczoraj od mamy .
+*CHI:	nie .
+*CHI:	zamknij oczy , to na czarnej poduszce zrobimy prawdziwy ogień .
+%sit:	janeczek zagląda pod szafę .
+*CHI:	mamusiu , jeszcze coś jest pod szafą .
+%sit:	janeczek wyciąga spod szafy kółko i toczy je po podłodze .
+*CHI:	misiu , ale teraz będzie szalejeć@g to auto .
+*CHI:	jutro ci to dam do zabawy .
+%sit:	janeczek bierze poduszkę i razem z czajnikiem zanosi ją Misiowi do
+	łóżka .
+*CHI:	weź sobie tę poduszkę , ugotujesz mi kawę .
+*CHI:	tu ci postawię .
+*MIS:	kołdrę mi pobrudzisz .
+*CHI:	to gdzie ci postawię ?
+*MIS:	daj , tylko tam .
+%sit:	janeczek stawia czajnik na poduszce (czarnej) .
+*MIS:	tu kawa .
+*CHI:	to nie wsadzaj ręki bo się poparzysz .
+@G:	Episode 134
+@Comment:	Age of CHI is 4;2.13
+@Comment:	Age of MIS is 2;9.23
+@Situation:	Janeczek wyciąga z kosza z zabawkami pieska.
+*CHI:	patrz , jaki pies się znalazł .
+*MIS:	brzydka noga .
+*CHI:	to przyszyję i koniec .
+*MIS:	przyszyj i koniec , bo nóżka brzydka .
+*MIS:	nie , mama ?
+@G:	Episode 135
+@Comment:	Age of CHI is 4;2.13
+@Comment:	Age of MIS is 2;9.23
+@Situation:	Janeczek toczy kółko po podłodze. Kółko od jakiegoś wózka.
+*MIS:	janeczek , i potem będzie jechało .
+*CHI:	żeby tu dzwonek założyć , to by jechało .
+*MIS:	I by dzwoniło .
+@G:	Episode 136
+@Comment:	Age of CHI is 4;2.13
+@Comment:	Age of MIS is 2;9.23
+@Situation:	Miś bierze pieska.
+*MIS:	janeczek , piesek cały ciepły .
+%sit:	miś kładzie pieska na czajniku .
+*MIS:	janeczek , się nagrzał , na kawie .
+*CHI:	ten piesek nazywa się Kieluś .
+*MIS:	ugrzał@g się cały .
+*MIS:	w kawie .
+@G:	Episode 137
+@Comment:	Age of CHI is 4;2.13
+@Comment:	Age of MIS is 2;9.23
+@Situation:	Janeczek toczy po pokoju kółko , na które założył metalową
+	szpulkę.
+*CHI:	mamusiu , to dzwoni jak zegar .
+*CHI:	misiu , śpij , a wszystko będzie leżało .
+%sit:	miś każe sobie podawać zabawki .
+@G:	Episode 138
+@Comment:	Age of CHI is 4;2.13
+@Comment:	Age of MIS is 2;9.23
+*CHI:	ty masz dwa papierki ?
+*MIS:	ja zakratałem@g .
+*CHI:	a , bo ty masz długi [% papierek] .
+@G:	Episode 139
+@Comment:	Age of CHI is 4;2.13
+@Comment:	Age of MIS is 2;9.23
+*MIS:	mama , płatki tu lepiej .
+%sit:	w czajniku , w którym poprzednio była kawa .
+*MIS:	dam misiowi płatki .
+*MIS:	oo !
+*MIS:	zjadł .
+*MIS:	ogryzki też mu dam .
+%sit:	ojciec dał Misiowi swego ukochanego misia na okres choroby .
+@G:	Episode 140
+@Comment:	Age of CHI is 4;2.13
+@Comment:	Age of MIS is 2;9.23
+@Situation:	Michał kładzie papier do czajnika.
+*CHI:	dlaczego psujesz książeczkę ?
+*MIS:	to papier .
+*CHI:	ja ci dałem książeczkę .
+*CHI:	to książeczka .
+%sit:	janeczek wyrywa Michałowi papier z ręki . Miś płacze .
+*MIS:	podarłeś .
+*CHI:	to nie ja .
+*CHI:	nie płacz , ciągnąłeś .
+@G:	Episode 141
+@Comment:	Age of CHI is 4;2.13
+@Comment:	Age of MIS is 2;9.23
+@Situation:	Jest godzina 18-ta. Michał leży trzeci dzień i czuje się
+	lepiej.
+*MIS:	ubierz mnie .
+*MAM:	nie możesz jeszcze wtawać .
+*MIS:	ubierz mnie , bo szyby się stłuką .
+*MAM:	dlaczego ?
+*MIS:	bo szyby się stłuką , jakby mnie się potem ubierało .
+*MIS:	szyby by się stłukły , wie mama ?
+@G:	Episode 142
+@Comment:	Age of CHI is 4;2.13
+@Comment:	Age of MIS is 2;9.23
+@Situation:	Michał opowiada coś o gościach.
+*MAM:	kto przyjedzie ?
+*MIS:	ciocia Ziula .
+*MAM:	nie .
+*MAM:	ciocia Jola , wuj Michał i babcia .
+*MIS:	gdzie wuj Michał będzie spał ?
+*MAM:	pod oknem na polowym łóżku .
+*MIS:	nie , tam babcia będzie spała .
+*MAM:	a ciocia Jola gdzie będzie spała ?
+*MIS:	gdzie by chciała .
+*MIS:	a Andrzej by przyszedł do mnie .
+*MIS:	[^ Po chwili] Babcia jak przyjedzie , to poczyta sobie elementarz .
+@G:	Episode 143
+@Comment:	Age of CHI is 4;2.14
+@Comment:	Age of MIS is 2;9.24
+@Situation:	Miś ma skręcone prześcieradło w nogach tapczanu. Na dzień
+	przenosi się go na tapczan , by było wygodniej go
+	obsługiwać.
+*MIS:	mamusiu , zrób mi ładnie prześcieradło .
+*MIS:	tu mi zrobiłaś nieładność@g .
+@G:	Episode 144
+@Comment:	Age of CHI is 4;2.14
+@Comment:	Age of MIS is 2;9.24
+@Situation:	Mama wraca od fryzjera , chłopcy siedzą na tapczanie ,
+	każdy w innym końcu. Janeczek wyszedł ze swego łóżeczka.
+*CHI:	jaka ładna jesteś , mamusiu .
+*CHI:	ja cię ukocham .
+*MIS:	ja też cię ukocham .
+*CHI:	ja pierwszy .
+*MIS:	ja też pierwszy .
+%sit:	mama sadza ich obok siebie i obaj kochają mamę pierwsi .
+*CHI:	zobacz , mamusiu , jakie Michał ma brudne nogi .
+*CHI:	on chodził boso po podłodze .
+%sit:	później , przy rozbieraniu Janeczek mówi .
+*CHI:	ja mamusię kocham , aż nie wiem jak co .
+*CHI:	tak mamusię kochaliśmy , aż włosy popsuliśmy .
+*CHI:	tak mamę kochaliśmy .
+@G:	Episode 145
+@Comment:	Age of CHI is 4;2.16
+@Comment:	Age of MIS is 2;9.26
+@Situation:	Mama mówi po obiedzie do Misia.
+*MAM:	chodź , zobaczę czy jesteś cięższy po tym obiedzie .
+*CHI:	misia trzeba zaprowadzić do przedszkola i potem do kancelarii .
+*CHI:	tam się go zważy .
+*CHI:	w takim lekarskim pokoju jest waga .
+*CHI:	jakby Miś się nie podnosił , to by był ciężki jak baran .
+*CHI:	jak ten na Strudze .
+%sit:	dzieci były w lecie na wsi . Były tam również i owce .
+@G:	Episode 146
+@Comment:	Age of CHI is 4;2.16
+@Comment:	Age of MIS is 2;9.26
+@Situation:	Janeczek czyta świerszczyk.
+*CHI:	ten krasnoludek nie ma brody .
+*CHI:	jeszcze mu nie urosła .
+*CHI:	niedługo mu urośnie .
+*MAM:	co za krasnoludek ?
+*CHI:	niedługo mu urośnie .
+*MIS:	to nie jest krasnoludek .
+*CHI:	jest .
+*CHI:	a niedługo mamusia będzie mi musiała zrobić brodę , bo ja się w
+	przedszkolu bawię w Dziadka_Mroza .
+@G:	Episode 147
+@Comment:	Age of CHI is 4;2.16
+@Comment:	Age of MIS is 2;9.26
+*PAS:	janeczek , chodź no tu , coś ci powiem .
+%sit:	janeczek idzie do niej do kuchni .
+*PAS:	pisałeś już do Gwiazdora ?
+*PAS:	co ma ci przynieść ?
+*MAM:	do nas Gwiazdor nie przychodzi .
+*CHI:	do nas Gwiazdor nie przychodzi .
+*PAS:	a o co go prosiłeś ?
+*CHI:	o lalki , łóżko dla lalek i jeszcze stół i piec i jeszcze wózek .
+*PAS:	ty jesteś chłopiec i bawisz się lalkami ?
+*CHI:	ja się nie bawię .
+@G:	Episode 148
+@Comment:	Age of CHI is 4;2.16
+@Comment:	Age of MIS is 2;9.26
+@Situation:	Miś opowiada ojcu.
+*MIS:	jak ja by duży byłem [*] , to pójdę [*] do szkoły , potem do
+	przedszkola .
+*OJC:	pewnie najprzód do przedszkola .
+*MIS:	potem do przedszkola , potem do pracy .
+*CHI:	a Miś to ma w Szubinie swoją pracę taką jak ty .
+%sit:	w Szubinie pracuje ukochany wuj Staś . Po chwili Janeczek poprawia
+	.
+*CHI:	nie , taką jak ja .
+@G:	Episode 149
+@Comment:	Age of CHI is 4;2.16
+@Comment:	Age of MIS is 2;9.26
+@Situation:	Chłopcy zbierają przed kolacją porozrzucane zabawki.
+*MAM:	zbierajcie papierki .
+*CHI:	to nie papierki , to kartofle .
+*MIS:	już jem .
+*MAM:	pomóż Janeczkowi zbierać papierki .
+*MIS:	to nie są papierki , to są rzeczy .
+*MIS:	nie wie mama ?
+*CHI:	to są kartofle .
+*MIS:	już niosę , pod brodą niosę te kartofle .
+%sit:	miś niesie papierki do kąta .
+*MAM:	michał , zbierz jeszcze klocki .
+*MIS:	ja nie mogę , ja chcę jeść .
+*MIS:	klocki Janeczek zbierze .
+*MAM:	janeczek robi co innego .
+*MIS:	ja muszę przy jedzeniu odpoczywać .
+@G:	Episode 150
+@Comment:	Age of CHI is 4;2.16
+@Comment:	Age of MIS is 2;9.26
+@Situation:	Chłopcy jedzą kolację.
+*CHI:	ja mam ładny talerz .
+*CHI:	ładniejszy .
+*MIS:	a ja ?
+*CHI:	ty też .
+*CHI:	a mama też ma nowy talerz , ten ładniejszy .
+*MIS:	ładniejszy .
+*CHI:	starszaki , laciaki@g .
+*MIS:	a dzieci też laciaki@g ?
+*CHI:	nie , tylko starszaki laciaki@g .
+*MIS:	a ty powiedziałeś , że dzieci .
+*CHI:	nie , ja powiedziałem starszaki laciaki@g .
+*CHI:	ja jutro w przedszkolu to zaśpiewam .
+*MIS:	a ja w domu zaśpiewam .
+*CCM:	wlazł kotek na płotek .
+@G:	Episode 151
+@Comment:	Age of CHI is 4;2.16
+@Comment:	Age of MIS is 2;9.26
+@Situation:	Chłopcy idą spać. Mama pomaga rozbierać się Janeczkowi.
+*CHI:	ja sam zdejmę sweter .
+*CHI:	janeczek sameczek@g .
+*CHI:	zosia+samosia .
+*MIS:	mamusia Samosia .
+*CHI:	nie , tylko Zosia_Samosia .
+%sit:	mama jest Zosia .
+@G:	Episode 152
+@Comment:	Age of CHI is 4;2.16
+@Comment:	Age of MIS is 2;9.26
+@Situation:	Janeczek w łóżku , Michał rozbiera się przy pomocy mamy i
+	strasznie płacze.
+*MAM:	cóż ty tak płaczesz .
+*MAM:	jeszcze pomyśli kto że u nas krowa ryczy i przyjdzie po mleko .
+*MIS:	ja mam mleczko .
+*MAM:	a dla kogo masz to mleczko ?
+*MIS:	dla słonia .
+*CHI:	nie mleczko , tylko mlecz .
+*CHI:	to taki kwiat , co ma białe sosy@g .
+*MIS:	I my jedliśmy , nie , mama ?
+*MAM:	co ?
+*MIS:	no , te sosy@g .
+*MAM:	soku z mleczu się nie je .
+*MIS:	my jedliśmy .
+@G:	Episode 153
+@Comment:	Age of CHI is 4;2.16
+@Comment:	Age of MIS is 2;9.26
+@Situation:	Janeczek skacze po łóżeczku.
+*MAM:	janeczek , proszę się w tej chwili położyć .
+*CHI:	ja nie chcę .
+*CHI:	ja niosę jajko .
+*CHI:	jestem indyczka .
+*CHI:	indyczka kliczka@g .
+*CHI:	miś , ty jesteś indyczka kliczka@g .
+@G:	Episode 154
+@Comment:	Age of CHI is 4;2.16
+@Comment:	Age of MIS is 2;9.26
+*MAM:	miś , rozbieramy się .
+*MIS:	ja nie chcę .
+*MAM:	trudno , trzeba iść spać .
+*CHI:	to mama wyśle Misia do przedszkola .
+*CHI:	tam go wezmą do kuchni i ugotują .
+*MAM:	głupstwa pleciesz .
+*CHI:	naprawdę .
+*MAM:	ludzi się nie gotuje .
+*CHI:	a mie pani zrobiła złotą laseczkę .
+*CHI:	taką jak ja długą .
+*CHI:	bo ja będę dzidziusiem kulawym .
+*CHI:	starszym panem kulawym będę .
+%sit:	mama chodzi z laską . W przedszkolu z racji św . Mikołaja dzieciom
+	stawia się "stopnie" . Grzeczne dzieci otrzymują złote laseczki , a
+	niegrzeczne czarne kropy .
+@G:	Episode 155
+@Comment:	Age of CHI is 4;2.16
+@Comment:	Age of MIS is 2;9.26
+*CHI:	ja wsadziłem sobie sznurek do ucha , tatuś .
+*OJC:	a po co ?
+*CHI:	żeby było .
+*OJC:	I co z tym robisz ?
+*CHI:	ja się bawię w doktórkę@g .
+*CHI:	będę leczyć zwierzęta .
+*OJC:	to doktór zwierzęta leczy ?
+*CHI:	a naszego konia leczył .
+%sit:	gdy dzieci były na wsi koń chorował , lecz nie sprowadzano
+	weterynarza , gdyż choroba nie była poważna .
+*OJC:	a w przedszkolu jest lekarz ?
+*CHI:	nie+ma .
+*CHI:	gdyby był doktór , to by nie grzecznym dzieciom zrobił zastrzyk w
+	język .
+*OJC:	kto ci takie głupstwa opowiada ?
+*CHI:	to pani mówiła .
+@G:	Episode 156
+@Comment:	Age of CHI is 4;2.17
+@Comment:	Age of MIS is 2;9.27
+@Situation:	Janeczek obudził się rano i mówi do mamy.
+*CHI:	wczoraj była sobota , dzisiaj jest niedziela .
+*CHI:	dzisiaj się nie idzie do przedszkola .
+*CHI:	do przedszkola pójdę jutro .
+%sit:	janeczek wczoraj , jutro rozróżnia dopiero mniej więcej od dwóch
+	miesięcy . Poprzednio zawsze pytał rano: czy dzisiaj jest jutro ? .
+@G:	Episode 157
+@Comment:	Age of CHI is 4;2.17
+@Comment:	Age of MIS is 2;9.27
+@Situation:	Janeczek stoi na łóżku w koszuli. Wszyscy jeszcze śpią.
+*MAM:	w tej chwili wejdź pod kołdrę , bo się przeziębisz .
+%sit:	janeczek siada , nakrywa się kołdrą i mówi .
+*CHI:	już gorzej@g nie wejdę .
+*CHI:	nie wejdę gorzej@g .
+*CHI:	[^ podśpiewuje] Już gorzej@g nie wejdę .
+@G:	Episode 158
+@Comment:	Age of CHI is 4;2.17
+@Comment:	Age of MIS is 2;9.27
+@Situation:	Chłopcy siedzą przy obiedzie.
+*OJC:	miś , opowiedz , cośmy widzieli na spacerze .
+*MIS:	mama , ja widziałem wianki .
+*MAM:	wianki ?
+*MIS:	tak .
+*CHI:	to nie na spacerze , to w ogrodzie .
+*CHI:	I pajac był .
+%sit:	pajac to pies mieszkający w tej samej kamienicy , na parterze .
+*OJC:	a gdzie Pajac mieszka ?
+*CHI:	u pani profesorowej .
+*CHI:	tam gdzie szary kot jest .
+*CHI:	u pani Zerzoniowej .
+%sit:	pajac nie "mieszka" ani u pani profesorowej , ani u pani
+	Zerzoniowej , choć one obie mieszkają również na parterze .
+@G:	Episode 159
+@Comment:	Age of CHI is 4;2.17
+@Comment:	Age of MIS is 2;9.27
+@Situation:	Miś nie chce jeść swojej zupki.
+*CHI:	ja zjem swoją zupkę .
+*CHI:	I misiową .
+*CHI:	żeby urosnąć duży .
+*CHI:	a z czego się robi krew ?
+*OJC:	z tego co zjesz i wypijesz robi się w brzuszku .
+*CHI:	I w skórze .
+*CHI:	krew to taka czerwona woda .
+*CHI:	najpierw się woda wyleje a potem krew .
+*CHI:	krew to z tego co się zje .
+@G:	Episode 160
+@Comment:	Age of CHI is 4;2.17
+@Comment:	Age of MIS is 2;9.27
+@Situation:	Miś leży na brzuchu na tapczanie i udaje , że chodzi na
+	czworakach.
+*MIS:	chodzi pies na czworakach .
+%sit:	miś schodzi z tapczanu .
+*MIS:	teraz pies wstał .
+*OJC:	to pies chodzi na dwóch nogach ?
+*MIS:	nie , na czworakach .
+%sit:	miś wchodzi szybko na tapczan i kładzie się na brzuchu .
+@G:	Episode 161
+@Comment:	Age of CHI is 4;2.17
+@Comment:	Age of MIS is 2;9.27
+@Situation:	Mama mówi do ojca.
+*MAM:	wczoraj przywieźli do spółdzielni osiem skrzyń jajek .
+*MAM:	nie zabraknie .
+*CHI:	wczoraj pani kucharka kupowała jajka .
+*CHI:	w taki długi koszyk [*] .
+*CHI:	I ubranie kupiła .
+*CHI:	marynarskie .
+*MAM:	dla swojego synka ?
+*CHI:	nie , dla małżonka .
+*CHI:	takie duże ubranko kupiła .
+@G:	Episode 162
+@Comment:	Age of CHI is 4;2.17
+@Comment:	Age of MIS is 2;9.27
+@Situation:	Janeczek wstaje od stołu.
+*CHI:	tatuś opowie mi bajeczkę , tę , co opowiadał przedwczoraj do
+	przedszkola .
+*CHI:	o Jezusku małym .
+*OJC:	opowiem ci później , teraz się położę .
+@G:	Episode 163
+@Comment:	Age of CHI is 4;2.17
+@Comment:	Age of MIS is 2;9.27
+@Situation:	Miś ma dużą kopertę w którą wkłada książki. Janeczek
+	odbiera mu kopertę.
+*CHI:	tak nie .
+*CHI:	najprzód tę , potem tę .
+*MIS:	ta nie wejdzie .
+*CHI:	wejdzie .
+%sit:	janeczek próbuje wkładać . Po chwili mówi .
+*CHI:	ta nie wchodzi .
+@G:	Episode 164
+@Comment:	Age of CHI is 4;2.17
+@Comment:	Age of MIS is 2;9.27
+@Situation:	Janeczek siedzi koło mamy.
+*CHI:	misiu już może po świecie chodzić , po^co@g boso chodził .
+*CHI:	misiu , już jesteś zdrowy , po^co@g boso latałeś wtedy .
+%sit:	janeczek słowa "po có używa niekiedy w znaczeniu "dlatego , że" .
+	Np .
+*CHI:	ja kocham wiosnę , po co nam dała kwiatki i (.) po co nam listki
+	puszcza na drzewa .
+@G:	Episode 16
+@Comment:	Age of CHI is 4;2.17
+@Comment:	Age of MIS is 2;9.27
+@Situation:	Chłopcy zaczynają zabawę. Ustawiają pod oknem kanapkę mają
+	swoją małą kanapkę do siedzenia , do której dostawiają ze
+	wszystkich stron krzesła.
+*CHI:	miś , dziecko , daj tatusiowi jeszcze jedno krzesło .
+*MIS:	dobrze , tylko tutaj są dużego tatusia rzeczy .
+%sit:	miś niesie krzesło .
+*MIS:	to dla mnie .
+*CHI:	dziecko , ty jesteś malutki .
+*CHI:	dla mnie trzeba .
+*CHI:	tam zamknij , to złodziej nie wejdzie .
+%sit:	jeden bok kanapki jeszcze nie jest zastawiony krzesłami .
+*CHI:	a mnie pod nóżki też daj coś .
+%sit:	miś chowa książki leżące koło kanapki .
+*CHI:	wynieś jeszcze te papiery i te świerszczyki .
+%sit:	janeczek siedzi na kanapce , Miś wynosi papiery i na nowo zaczyna
+	znosić krzesła .
+*CHI:	dziecko , daj jeszcze to krzesło .
+%sit:	miś przyciąga krzesło .
+*CHI:	dziecko znajdzie jeszcze coś .
+*MIS:	jeszcze to trzeba przyszyć , tatuś .
+*MIS:	I jeszcze to , proszę .
+%sit:	miś podaje Janeczkowi dwa kawałki gazety .
+*MIS:	a ja nie będę spał ?
+%sit:	janeczek schodzi z kanapki , na którą wchodzi Michał i zaraz
+	kładzie się .
+*CHI:	teraz tatuś zakluczy trzecim krzesłem koło dziecka .
+%sit:	siadają razem .
+*MIS:	jak na gołe , to by mnie bolało .
+*CHI:	na głowę ?
+*CHI:	możesz na brzuszku .
+*CHI:	ja ci przyniosę poduszkę .
+%sit:	janeczek poduszki jednak nie przynosi , tylko pilnuje Misia , który
+	z trudem układa się na brzuszku . Przesuwa krzesła .
+*CHI:	czy tu złodziej przejdzie ?
+*MIS:	diabeł wejdzie .
+%sit:	janeczek próbuje kijem podnieść z ziemi czajnik (siedzi na krześle)
+	.
+*CHI:	dziecko , włóż tatusiowi na to , tatuś podniesie .
+%sit:	miś wkłada , bierze gazetę i woła .
+*MIS:	autko kupiłem .
+*CHI:	tu włóż .
+*CHI:	to z papieru kupiłeś ?
+*CHI:	tak ?
+*CHI:	jeszcze coś podaj .
+*CHI:	konika .
+*MIS:	gazetę .
+*MIS:	tu wydarte auto .
+*CHI:	nie wydrzywaj@g .
+*CHI:	dziecko !
+*CHI:	nie wydrzywaj@g .
+*CHI:	ja obrazki .
+*MIS:	widzi tatuś , ja taki obrazek wytnę dla tatusia .
+%sit:	miś drze gazetę na pasemka .
+@G:	Episode 166
+@Comment:	Age of CHI is 4;2.17
+@Comment:	Age of MIS is 2;9.27
+@Situation:	Miś przynosi do mamy blaszane pudełko i chustkę do nosa.
+*MIS:	mamusiu , przyszyj mi to .
+*MAM:	czym ?
+*MIS:	sznurkiem .
+*CHI:	mamusia musi tu zrobić dziurkę igłą .
+*MIS:	to żelazo .
+*CHI:	to nic .
+*CHI:	mamusia zrobi .
+*CHI:	albo ja czymś wybiję .
+%sit:	janeczek bierze kij i wybija nim dziurę w pudełku .
+@G:	Episode 167
+@Comment:	Age of CHI is 4;2.18
+@Comment:	Age of MIS is 2;9.28
+@Situation:	Rano Janeczek się budzi i mówi do ojca.
+*CHI:	tatuś , a mamusia mi wczoraj opowiadała bajeczkę o tym Jezusku .
+*CHI:	I o nie grzecznym panu .
+*CHI:	I tam byli pastuszy@g i się przykłonili@g .
+@G:	Episode 168
+@Comment:	Age of CHI is 4;2.18
+@Comment:	Age of MIS is 2;9.28
+@Situation:	Chłopcy poszli z ojcem po zająca na święta.
+*CHI:	mamusiu , my byliśmy u pana Jurka .
+*CHI:	tam trzeba iść wysoko , na drugie piętro [% trzecie] .
+*CHI:	a zając był taki ciężki .
+*CHI:	ani go udźwignąć nie mogłem .
+*CHI:	a z tym większym chłopcem , to robiłem dźwigi .
+%sit:	byli tam dwaj chłopcy w wieku Jana i Michała .
+*MIS:	ja widziałem zająca .
+%sit:	po chwili Miś przychodzi do mamy i mówi .
+*MIS:	samolot zastrzelony , nie lata .
+*MIS:	ja się pomyliłem , powiedziałem samolot .
+*MAM:	a co miałeś powiedzieć ?
+*MIS:	powiedziałem , że samolot .
+*MAM:	a co jest zastrzelone ?
+*MIS:	aaa zając , wie mama ?
+@G:	Episode 169
+@Comment:	Age of CHI is 4;2.18
+@Comment:	Age of MIS is 2;9.28
+@Situation:	Przyszły dzieci współlokatorów i Janeczek chwali się
+	zającem , który wisi w spiżarce. Mama bierze zająca za nogi
+	i wynosi. Miś chowa się bardzo szybko za Janeczka. Dzieci
+	głaszczą zająca.
+*MAM:	michał , dotknij , zobacz jaki zając mięciutki .
+%sit:	miś podchodzi , dotyka zająca i zaraz cofa rękę .
+*MAM:	dotknij jeszcze raz .
+*MAM:	patrz , tu zając ma uszy , a tu łapki .
+%sit:	miś głaszcze zająca i już ręki nie cofa .
+*MIS:	a jakie zając ma oczy ?
+*MAM:	zobacz sobie .
+@G:	Episode 170
+@Comment:	Age of CHI is 4;2.18
+@Comment:	Age of MIS is 2;9.28
+*CHI:	auto ja nasmaruję oliwą .
+*MIS:	całe auto ?
+*CHI:	tak , całe .
+*MIS:	I jedzie na ulicy całe nasmarowane ?
+*CHI:	jedzie .
+@G:	Episode 171
+@Comment:	Age of CHI is 4;2.19
+@Comment:	Age of MIS is 2;9.29
+@Situation:	Janeczek ubiera się.
+*CHI:	mamusiu , a pan Jurek to mieszka wysoko .
+*CHI:	I ma trzy pokoje .
+*CHI:	I jeszcze łazienkę .
+@G:	Episode 172
+@Comment:	Age of CHI is 4;2.19
+@Comment:	Age of MIS is 2;9.29
+@Situation:	Janeczek miał poprzedniego dnia obiecaną podróż do
+	Bydgoszczy. Rano mama budzi Janeczka pół godziny wcześniej
+	niż normalnie. Mama woła.
+*MAM:	janeczek , Janeczek .
+%sit:	janeczek się nie rusza .
+*MAM:	janeczek , wstawaj , pojedziesz do Bydgoszczy .
+%sit:	janeczek wstaje na równe nogi , nie otwiera oczu , zatacza się i
+	woła .
+*CHI:	a ja byłem grzeczny , to pojadę do Bydgoszczy .
+*CHI:	ja słyszałem , jak mnie mamusia trzy razy wołała .
+@G:	Episode 173
+@Comment:	Age of CHI is 4;2.19
+@Comment:	Age of MIS is 2;9.29
+@Situation:	Janeczek wchodzi do kuchni i widzi piecyk gazowy , którego
+	nigdy przdtem nie widział. Słyszał jedynie , że mama chce
+	kupić piecyk.
+*CHI:	oo , piecyk .
+*CHI:	mama kupiła ?
+*MAM:	nie , to piecyk pani Zerzoniowej .
+*CHI:	pani Zerzoniowa nam dała ?
+*MAM:	nie , nie dała , tylko pożyczyła .
+*CHI:	to pani Zerzoniowa kochana .
+@G:	Episode 174
+@Comment:	Age of CHI is 4;2.19
+@Comment:	Age of MIS is 2;9.29
+@Situation:	Listonosz przyniósł list.
+*MIS:	od kogo ten list ?
+*MAM:	od cioci Ani .
+%sit:	miś odchodzi do drugiego pokoju . Po jakimś czasie (około 10 minut)
+	wraca i pyta .
+*MIS:	gdzie masz ten list , co jest babcia Bakajowa ?
+%sit:	miś bierze list i czyta .
+*MIS:	babcia Bakajowa i Jadziunia .
+*MIS:	czy Jadziunia Bakajowa ?
+*MIS:	mamusia Strawińska i tatuś Strawiński .
+*MIS:	a tu znaczek .
+*MIS:	kupię nóż i będę odrzynał , odrzynał .
+*MIS:	a tu jeszcze kółko .
+%sit:	miś mówi o pieczątce na znaczku pocztowym . Miś listu z koperty nie
+	wyjął .
+*MIS:	ja byłem tu na Strudze .
+*MIS:	tu był Janeczek a tu mamusia .
+%sit:	miś pokazuje palcem na kopercie .
+*MIS:	mamusia jest Bakaj Strawiński .
+%sit:	mama nie używa podwójnego nazwiska .
+@G:	Episode 175
+@Comment:	Age of CHI is 4;2.19
+@Comment:	Age of MIS is 2;9.29
+@Situation:	Miś idzie do kuchni z mamą zobaczyć w czym pieką się
+	ciastka. Już wie , że piecyk pożyczyła p. Zerzoniowa.
+	Wchodzi do kuchni i pyta.
+*MIS:	to od pani Zerzoniowej ?
+*MAM:	tak , od pani Zerzoniowej .
+*MIS:	to ładny piec .
+*MIS:	umyj go , bo jest brzydki .
+*MIS:	jeszcze tu .
+%sit:	mama wyciera piecyk .
+@G:	Episode 176
+@Comment:	Age of CHI is 4;2.19
+@Comment:	Age of MIS is 2;9.29
+@Situation:	Miś owiązuje patyk paskiem od szlafroka.
+*MAM:	uważaj , bo to pasek od mego szlafroka .
+%sit:	miś zakłada potem ten patyk na ramię i woła z zachwytem .
+*MIS:	patrz mama , jaki ja jestem żołnierz .
+*MIS:	to będzie strzelało , a potem będzie dzwonił dzwonek u mnie w pracy
+	.
+%sit:	w Zakładzie Zoologii przy drzwiach wejściowych jest dzwonek , który
+	alarmuje pracowników o każdym wejściu kogokolwiek .
+*MAM:	a co ty robisz w pracy ?
+*MIS:	ja nie robię .
+*MIS:	ja już zrobiłem .
+*MIS:	żabki z kasztanów zrobiłem .
+%sit:	miś zdejmuje kij z ręki i mówi .
+*MIS:	naprawiam karabin .
+*MIS:	muszę go trzymać i strzelać , wie mama ?
+%sit:	miś zaczyna chodzić dokoła stołu .
+*MAM:	a kto ciebie nauczył strzelać .
+*MIS:	to drzewo , co leży w lasu@g .
+*MIS:	ja strzeliłem w drzewo , to będą dziurki i będzie grało .
+*MAM:	przecież wiesz , że strzelać brzydko .
+*MIS:	tatuś , Janeczek i ja możemy .
+*MIS:	trzeba strzelać .
+*MIS:	bo Henio strzelał w domu .
+%sit:	henio to syn współlokatorów .
+*MAM:	mamusia nie lubi , gdy dzieci strzelają .
+*MIS:	to my lepiej nie będziemy strzelać .
+*MIS:	nie będziemy strzelać z Janeczkiem i tatusiem .
+*MIS:	to przyjedzie straż pożarna .
+*MIS:	a kij jest popsuty i nie leci woda .
+%sit:	miś ma w ręce wciąż ten sam kij i chodzi dookoła stołu .
+*MIS:	jedzie straż .
+*MIS:	zaraz jedzie na podwórko .
+*MAM:	co ty masz w ręce ?
+*MIS:	nie wie mama ?
+*MIS:	pifpolec@g .
+%sit:	pifpolec tak chłopcy nazywają pistolet .
+*MAM:	a do czego to jest ?
+*MIS:	ja nie zgubię tego sznurka .
+*MIS:	będę strzelał w piasek .
+*MIS:	a potem będzie straż pożarna .
+*MIS:	mama się nie przestraszy ?
+*MIS:	to będzie taka zwyczajna .
+%sit:	słowo straż kojarzy się Misiowi ze strach . Jakiś czas Michał
+	mówił: strach pożarna . Na wyjaśnienie mamy , że straż pożarna gasi
+	ogień , mówi .
+*MIS:	to jak się u nas zapali , to przyjedzie straż i narobi nam strachu
+	.
+%sit:	rozmowa ta miała miejsce mniej więcej w październiku br . Zapisuję
+	ją z pamięci . Koło domu jest sygnał alarmowy straży pożarnej .
+	Michał zaczął rozmowę mniej więcej tak: Patrz , tu jest strach
+	pożarna .
+@G:	Episode 177
+@Comment:	Age of CHI is 4;2.19
+@Comment:	Age of MIS is 2;9.29
+@Situation:	Janeczek ogląda w książce ratusz toruński.
+*CHI:	to kościół z wielką wieżą .
+*CHI:	ja go widziałem +...
+*MAM:	w Toruniu , to ratusz .
+*CHI:	nie , we@g Warszawie .
+*CHI:	tam we@g Warszawie byliśmy w kościele i tam Pan_Jezus duży .
+*CHI:	już urósł .
+*OJC:	opowiedz co śmy widzieli [% w Bydgoszczy] .
+*CHI:	w kościele ?
+*CHI:	ja opowiem o tej wodzie .
+*CHI:	tam były takie maszyny , co zatrzymują .
+*CHI:	I syczyło@g i pryskało do góry .
+*CHI:	I płynęło do Bordy , do Brody , do takiej wody [= do Brdy] .
+%flo:	I płynęło do Bordy , do Brody , do takiej wody .
+*MIS:	to by się zatkało .
+*CHI:	nie , to zatrzymuje drogę tej wodzie .
+%sit:	janeczek mówi o śluzach na Brdzie w Bydgoszczy .
+*CHI:	a ja widziałem jeszcze wystawę i zabawki .
+*CHI:	taki misiu był duży w czapce na jedno oko .
+*CHI:	a to długo było .
+*MAM:	co długo było ?
+*CHI:	a to jak byłem w Bydgoszczy .
+@G:	Episode 178
+@Comment:	Age of CHI is 4;2.19
+@Comment:	Age of MIS is 2;9.29
+@Situation:	Miś skaleczył sobie czoło.
+*CHI:	sobie zdejmij to czarne .
+*MIS:	nie mam czarne .
+*CHI:	masz , ja by zdjąłem [*] i koniec .
+@G:	Episode 179
+@Comment:	Age of CHI is 4;2.19
+@Comment:	Age of MIS is 2;9.29
+@Situation:	Janeczek bawi się pudełkiem od papierosów.
+*CHI:	a ja od jednego pana dostałem .
+*MIS:	a ja by w pracy też dostałem [*] od jednego pana .
+*CHI:	ty nie masz pracy .
+*MIS:	wuj Michał ma pracę .
+*CHI:	wuj Michał nie potrzebuje pracować .
+*MIS:	wuj Michał ma ino Warszawę .
+*CHI:	nie ma .
+*MIS:	wuje@g Michały mają , mają , mają .
+@G:	Episode 180
+@Comment:	Age of CHI is 4;2.19
+@Comment:	Age of MIS is 2;9.29
+@Situation:	Janeczek ustawia krzesła koło szafy.
+*CHI:	my się zabawimy w morze .
+*CHI:	tu będzie ryba ułowiona , a tu leży łowienie [*] .
+*MIS:	proszę+pana , proszę+pana .
+%sit:	janeczek nie słyszy co mówi Michał .
+*CHI:	idę po sznurek do kuchni .
+%sit:	janeczek wraca i związuje dwa sznurki . Miś trzyma w ręce kawałek
+	jakiegoś kija .
+*MIS:	ja chodzę z laską .
+*CHI:	I gdzie się przewrócisz ?
+*CHI:	to będzie długie .
+%sit:	janeczek mówi o sznurkach , które wiąże .
+*MIS:	to maszyna ?
+*CHI:	to będzie gorsza@g niż tamta maszyna .
+%sit:	z tonu wypowiedzi wnoszę , że to będzie lepsza , większa maszyna .
+	Chodzi tu prawdopodobnie o śluzy . Związany sznurek Janeczek
+	przywiązał do konika . Ciągnie go i mówi .
+*CHI:	na wędrówkę jadę .
+*MIS:	a gdzie ta rybka ?
+*MIS:	trzecia rybka ?
+*CHI:	ja nie potrzebuje tyle rybek .
+*CHI:	ten koń pójdzie po wodzie , a potem kopnie o kamień i iskry pójdą .
+*CHI:	ja widziałem , jak idą iskry z ziemi , jak jedzie tramwaj .
+*CHI:	a koń , jak uderzy podkówką , to iskry lecą .
+@G:	Episode 181
+@Comment:	Age of CHI is 4;2.19
+@Comment:	Age of MIS is 2;9.29
+@Situation:	Miś biega z patyczkiem dookoła stołu.
+*MIS:	ja wyrzucam kamienie .
+*MAM:	skąd te kamienie wyrzucasz ?
+*MIS:	z Wisły .
+*CHI:	z morza .
+*MIS:	robię ulicę .
+*MIS:	wielką .
+*MIS:	żeby wuj Staś wskakiwał .
+*MIS:	I tramwaj .
+*MIS:	potem większą ulicę zrobimy .
+*MIS:	się narobi@g [% @SZYK] większą ulicę .
+*MIS:	już się narobiła@g większa ulica .
+%sit:	miś stoi w miejscu i macha patyczkiem w powietrzu .
+*MIS:	już jest duża .
+*MIS:	nie+ma kamieni .
+*CHI:	no widzi pan , że musi teraz pan szukać kamieni na tej wodzie , co
+	szumi .
+@G:	Episode 182
+@Comment:	Age of CHI is 4;2.19
+@Comment:	Age of MIS is 2;9.29
+@Situation:	Janeczek je chleb ze skwarkami , które bardzo lubi. W domu
+	skwarki bywają rzadko.
+*MAM:	smakowała ci ryba w Bydgoszczy ?
+*CHI:	tak .
+*CHI:	dobra była jak smalec .
+*CHI:	smalec jest gorszy@g , gorzej@g dobry , bo dobry jak+nie+wiem+co .
+*CHI:	a ryba była jak smalec taka dobra .
+@G:	Episode 183
+@Comment:	Age of CHI is 4;2.19
+@Comment:	Age of MIS is 2;9.29
+@Situation:	Miś opowiada Janeczkowi co jadł na obiad.
+*MIS:	a my jedliśmy kaszę .
+*MIS:	I dla tatusia zostawiliśmy , a dla ciebie nie .
+*CHI:	dlaczego dla mnie nie zostawiliście ?
+*MIS:	a , bo się nie ugotowała .
+*CHI:	mamusia , ja chcę kaszy .
+*MAM:	przecież jesz chleb .
+*CHI:	czy chleb to kasza ?
+@G:	Episode 184
+@Comment:	Age of CHI is 4;2.20
+@Comment:	Age of MIS is 2;9.30
+@Situation:	Miś wygląda oknem. Z okien naszego domu widać domek w
+	ogródku z kominami na dachu. Widać również kominy na
+	dalszych domach.
+*MIS:	mamusiu , a ten mały , trochę długi domek do czego jest ?
+*MAM:	to nie domek , to komin .
+*MIS:	ale ten mały , trochę długi domek .
+*MAM:	to komin z niego leci dym gdy w piecu się pali .
+*MIS:	to pan kominiarz go wymiata ?
+*MAM:	tak , pan kominiarz wymiata kominy , żeby w nich sadzy niebyło .
+*MIS:	ja będę kominiarzem i będę wymiatał komin .
+*MAM:	czyj komin ?
+*MIS:	nasz .
+*MIS:	a pani@g kominiarze to mieszkają u Baby_Jagi .
+*MAM:	I ty tam będziesz mieszkał ?
+*MIS:	tak .
+*MIS:	baba+jaga mnie nie weźmie .
+*MAM:	naturalnie , że nie .
+*MAM:	baba+jaga nie zabiera dzieci .
+*MIS:	I się zrobi czarnego misia , w piwnicy .
+*MAM:	z czego zrobi się tego misia ?
+*MIS:	z kominiarza .
+*MIS:	I zamknie w piwnicy .
+*MAM:	czy ciebie zamknie się w piwnicy ?
+*MIS:	nie , mama zrobi misia dla mnie , żeby się bawiłem [*] .
+*MIS:	z węgla mama zrobi .
+*MIS:	taki czarny miś jak smoła , jak węgiel , wie mamusia ?
+%flo:	taki czarny miś jak smoła , jak więgiel , wie mamusia ?
+@G:	Episode 185
+@Comment:	Age of CHI is 4;2.20
+@Comment:	Age of MIS is 2;9.30
+@Situation:	Miś siedzi przy obiedzie.
+*MIS:	a w piecu nic nie+ma ?
+%sit:	w piecu (bratrurze , duchówce , framudze) stawia się w zimie
+	garnuszki by nie stygły lub robi się leguminki .
+*MIS:	figa to jest nic .
+*MIS:	nic jest figą , wie mama ?
+*MIS:	henio umie robić nic figę , a Dorotka umie robić garnek .
+%sit:	henio ma 6 , a Dorotka 7 lat .
+@G:	Episode 186
+@Comment:	Age of CHI is 4;2.20
+@Comment:	Age of MIS is 2;9.30
+@Situation:	Miś wychodzi z wanny po kąpieli i mruczy.
+*MIS:	głupia ryba .
+*MAM:	kto jest głupia ryba ?
+*MIS:	nie+ma .
+*MAM:	ryby nie są głupie .
+*MIS:	żabki są głupie .
+*MIS:	jak nie chcą tatusiowi do siatki wchodzić .
+*MIS:	wie mama ?
+*MIS:	jak nie chcą wchodzić .
+%sit:	ojciec jesienią jeździł po kumaki i ropuszki potrzebne mu do pracy
+	.
+@G:	Episode 187
+@Comment:	Age of CHI is 4;2.20
+@Comment:	Age of MIS is 2;9.30
+@Situation:	Miś dostał w przedszkolu cukierka od kierowniczki. Nie
+	zjadł go zaraz , gdyż powiedział , że musi zanieść do domu.
+	Po drodze Janeczek mówi.
+*CHI:	misiu , dasz mi połowę cukierka , bo dzisiaj na podwieczorek były
+	ino same jabłka .
+*CHI:	cukierków nie+było .
+%sit:	miś nic nie odpowiada .
+*CHI:	mamusia weźmie noża i przekroi na pół .
+*MAM:	dobrze , o ile Michał się zgodzi .
+*CHI:	misiu , dasz mi ogonek ?
+*MIS:	dam .
+%sit:	w domu Miś rozwinął cukierek , ucieszył się , że taka śliczna
+	poduszeczka , taka żółta poduszeczka (cukierek był różowy) .
+	Janeczek wziął mu cukierek z ręki i mówi .
+*CHI:	to trzeba rozciąć .
+*MIS:	nie .
+%sit:	miś zabrał cukierek i schował do buzi .
+@G:	Episode 188
+@Comment:	Age of CHI is 4;2.21
+@Comment:	Age of MIS is 2;10.1
+*MIS:	w co [*] babcia przyjedzie ?
+*MAM:	w sobotę .
+*MIS:	a wuj Michał w co [*] ?
+*MAM:	w niedzielę .
+*MIS:	a ja cioci Joli nie kocham .
+*MAM:	dlaczego nie kochasz ?
+*MIS:	a bo mi w Sadurkach obiadu nie gotowała .
+%sit:	dzieci były w lecie cztery tygodnie w Sadurkach u babci .
+@G:	Episode 189
+@Comment:	Age of CHI is 4;2.21
+@Comment:	Age of MIS is 2;10.1
+*MAM:	janeczek , proszę sobie wytrzeć nos .
+*CHI:	nie mam chusteczki .
+*MAM:	a co leży na tapczanie ?
+*MIS:	na tapczanie siedzi mama , a nie leży .
+*MIS:	mama nie leży , mama siedzi .
+@G:	Episode 190
+@Comment:	Age of CHI is 4;2.22
+@Comment:	Age of MIS is 2;10.2
+*BAB:	co to jest ?
+*MIS:	kotek .
+*BAB:	a jaki jest ?
+*MIS:	czarny .
+*BAB:	a oczy ma zielone .
+*BAB:	a ty jakie masz oczki ?
+*MIS:	czarne .
+*BAB:	to trzeba umyć .
+*MIS:	nie , to są we@g środku czarne .
+*MIS:	dziury trzeba zatkać papierem .
+@End
